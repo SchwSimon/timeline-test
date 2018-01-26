@@ -1,0 +1,3230 @@
+{
+  "google_calendar": [
+    {
+      "id": 44704533,
+      "uid": "_8h23ae9g6oojgb9h84r44b9k84r32ba26cr32ba46spkch9k64r4cgi388",
+      "title": "Monthly Review of Company",
+      "note": null,
+      "date": "2017-12-05",
+      "from": "2017-12-05T07:30:00-08:00",
+      "to": "2017-12-05T08:30:00-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 0,
+        "formatted": "01:00",
+        "total_hours": 1.0,
+        "total_seconds": 3600,
+        "total_minutes": 60
+      },
+      "at": "2017-12-05T07:30:00-08:00",
+      "extra_attributes": [],
+      "icon": "google_calendar.png",
+      "color": "rgba(86,210,255,0.30)",
+      "sub_entries": []
+    },
+    {
+      "id": 56292136,
+      "uid": "_8923ag9g6cp34ba284qk2b9k8h142b9o84p3eb9g88q34dpm84o3eh228o",
+      "title": "Memory Insights touchdown",
+      "note": null,
+      "date": "2017-12-05",
+      "from": "2017-12-05T08:30:00-08:00",
+      "to": "2017-12-05T09:30:00-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 0,
+        "formatted": "01:00",
+        "total_hours": 1.0,
+        "total_seconds": 3600,
+        "total_minutes": 60
+      },
+      "at": "2017-12-05T08:30:00-08:00",
+      "extra_attributes": [],
+      "icon": "google_calendar.png",
+      "color": "rgba(86,210,255,0.30)",
+      "sub_entries": []
+    },
+    {
+      "id": 57106560,
+      "uid": "_8h0k8dpm6srk8b9j74pj8b9k8ko48ba2851j8b9j60o38ghp8co4ah9h8g",
+      "title": "Health Insurance visit",
+      "note": "DO NOT EAT OR DRINK!\n",
+      "date": "2017-12-05",
+      "from": "2017-12-05T09:30:00-08:00",
+      "to": "2017-12-05T10:30:00-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 1,
+        "minutes": 0,
+        "seconds": 0,
+        "formatted": "01:00",
+        "total_hours": 1.0,
+        "total_seconds": 3600,
+        "total_minutes": 60
+      },
+      "at": "2017-12-05T09:30:00-08:00",
+      "extra_attributes": [],
+      "icon": "google_calendar.png",
+      "color": "rgba(86,210,255,0.30)",
+      "sub_entries": []
+    }
+  ],
+  "github": [
+    {
+      "at": "2017-12-04T15:20:12-08:00",
+      "from": "2017-12-04T15:20:12-08:00",
+      "to": "2017-12-04T15:31:55-08:00",
+      "events": [
+        {
+          "id": 56901824,
+          "uid": "d21d2e2",
+          "title": "Team React release (#137)",
+          "note": "Timely/timely:master(d21d2e2)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T15:20:12-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        },
+        {
+          "id": 56901810,
+          "uid": "299c580",
+          "title": "Fixed class name + default options",
+          "note": "Timely/Frontend:implement-new-ui-as-re-usable-components(299c580)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T15:22:09-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        },
+        {
+          "id": 56901812,
+          "uid": "d61151e",
+          "title": "Move inline checks to mapStateToProps",
+          "note": "Timely/Frontend:implement-new-ui-as-re-usable-components(d61151e)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T15:22:09-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        },
+        {
+          "id": 56901814,
+          "uid": "b0c0617",
+          "title": "Renaming things",
+          "note": "Timely/Frontend:implement-new-ui-as-re-usable-components(b0c0617)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T15:22:09-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        },
+        {
+          "id": 56901816,
+          "uid": "3045f8c",
+          "title":
+            "Godamnit, the filter\u0026fetching is such a fucking headache still\n\nI think my initial \"hold off loading subroute until API data is ready\" approach might have merit after all.",
+          "note": "Timely/Frontend:implement-new-ui-as-re-usable-components(3045f8c)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T15:22:09-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        },
+        {
+          "id": 56901818,
+          "uid": "3553751",
+          "title": "Removed workarounds for dealing with no teamIds selected",
+          "note": "Timely/Frontend:implement-new-ui-as-re-usable-components(3553751)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T15:22:09-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        },
+        {
+          "id": 56901820,
+          "uid": "092043c",
+          "title": "\"No teams selected\" state",
+          "note": "Timely/Frontend:implement-new-ui-as-re-usable-components(092043c)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T15:22:09-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        },
+        {
+          "id": 56901822,
+          "uid": "37ff34a",
+          "title":
+            "Merge remote-tracking branch 'origin/ch1842/team-management' into ch2649/implement-new-ui-as-re-usable-components",
+          "note": "Timely/Frontend:implement-new-ui-as-re-usable-components(37ff34a)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T15:22:09-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        },
+        {
+          "id": 56901803,
+          "uid": "f2906db",
+          "title":
+            "Team Management (#610)\n\n* Experimenting with layout techniques\r\n\r\n* More WIP/experimentation\r\n\r\n* TDD/WIP\r\n\r\n* Fleshed out additional actions, added failing tests\r\n\r\n* Fixed typo\r\n\r\n* Removed copypast",
+          "note": "Timely/Frontend:implement-new-ui-as-re-usable-components(f2906db)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T15:31:55-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        },
+        {
+          "id": 56901805,
+          "uid": "283d7fe",
+          "title": "Merge branch 'master' into ch2649/implement-new-ui-as-re-usable-components",
+          "note": "Timely/Frontend:implement-new-ui-as-re-usable-components(283d7fe)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T15:31:55-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        }
+      ]
+    },
+    {
+      "at": "2017-12-04T15:52:08-08:00",
+      "from": "2017-12-04T15:52:08-08:00",
+      "to": "2017-12-04T16:05:50-08:00",
+      "events": [
+        {
+          "id": 56901800,
+          "uid": "0ec6378",
+          "title": "Fixed yarn lock",
+          "note": "Timely/Frontend:implement-new-ui-as-re-usable-components-new-branch(0ec6378)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T15:52:08-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        },
+        {
+          "id": 56711357,
+          "uid": "4c376dc",
+          "title": "Hotfix for Control initializing without any teams set",
+          "note": "Timely/Frontend:master(4c376dc)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T16:05:50-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        }
+      ]
+    },
+    {
+      "at": "2017-12-04T16:05:50-08:00",
+      "from": null,
+      "to": null,
+      "events": [
+        {
+          "id": 56715477,
+          "uid": "fd29037",
+          "title": "Hotfix: Wrong team filters set when visiting Control indirectly",
+          "note": "Timely/timely:master(fd29037)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T16:11:55-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        }
+      ]
+    },
+    {
+      "at": "2017-12-04T16:41:10-08:00",
+      "from": null,
+      "to": null,
+      "events": [
+        {
+          "id": 56718760,
+          "uid": "28538b9",
+          "title": "Always show \"New team\" button (but disabled if user doesn't have access)",
+          "note": "Timely/Frontend:teams-post-release-cleanup(28538b9)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-04T16:41:10-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        }
+      ]
+    },
+    {
+      "at": "2017-12-05T15:01:34-08:00",
+      "from": "2017-12-05T15:01:34-08:00",
+      "to": "2017-12-05T15:06:22-08:00",
+      "events": [
+        {
+          "id": 57199667,
+          "uid": "954b76e",
+          "title": "Playing around with card/list/ui components",
+          "note": "Timely/Frontend:implement-new-ui-as-re-usable-components-new-branch(954b76e)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-05T15:01:34-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        },
+        {
+          "id": 57199665,
+          "uid": "2d198c8",
+          "title": "Implemented divider",
+          "note": "Timely/Frontend:implement-new-ui-as-re-usable-components-new-branch(2d198c8)",
+          "date": "2017-12-05",
+          "from": null,
+          "to": null,
+          "entry_type": null,
+          "duration": {
+            "hours": 0,
+            "minutes": 0,
+            "seconds": 0,
+            "formatted": "00:00",
+            "total_hours": 0.0,
+            "total_seconds": 0,
+            "total_minutes": 0
+          },
+          "at": "2017-12-05T15:06:22-08:00",
+          "extra_attributes": [{ "name": "email", "value": "timm@stokke.me" }],
+          "icon": null,
+          "color": null,
+          "sub_entries": []
+        }
+      ]
+    }
+  ],
+  "macOS": [
+    {
+      "id": 57026601,
+      "uid": "ed59697f7b505ef87416190962ac7188a251114120397532a9f549f6c5523937",
+      "title": "Basecamp 3",
+      "note": " Week 49 – Growth Update",
+      "date": "2017-12-05",
+      "from": "2017-12-05T07:22:11-08:00",
+      "to": "2017-12-05T07:28:04-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 53,
+        "formatted": "00:05",
+        "total_hours": 0.08333333333333333,
+        "total_seconds": 353,
+        "total_minutes": 5
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Basecamp 3" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "basecamp.png",
+      "color": "rgba(245, 179, 137, 0.3)",
+      "sub_entries": [
+        {
+          "id": 23253051,
+          "uid": "bce68d1892889127a5d67d156fa37f842030d7fb53d3afdd332f742f5866f4df",
+          "entry_id": 57026601,
+          "from": "2017-12-05T07:22:19-08:00",
+          "to": "2017-12-05T07:28:04-08:00",
+          "note": " Week 49 – Growth Update"
+        },
+        {
+          "id": 23253052,
+          "uid": "5a73882d7f13f34f68516a95b3b386a013c1857f65005608eec56aa893ca498f",
+          "entry_id": 57026601,
+          "from": "2017-12-05T07:22:33-08:00",
+          "to": "2017-12-05T07:23:01-08:00",
+          "note": " Week 48 – Growth Update"
+        },
+        {
+          "id": 23253055,
+          "uid": "8f14752382a308e651e537362adb878bb336e4013154ce62e1899022fef4c78b",
+          "entry_id": 57026601,
+          "from": "2017-12-05T07:23:03-08:00",
+          "to": "2017-12-05T07:23:13-08:00",
+          "note": " Week 47 – Growth Update"
+        },
+        {
+          "id": 23253058,
+          "uid": "a88574b3246f5a9d7dc226467915675b5f5e36829b66421e96c763076da47570",
+          "entry_id": 57026601,
+          "from": "2017-12-05T07:23:16-08:00",
+          "to": "2017-12-05T07:23:35-08:00",
+          "note": " Week 46 – Growth Update"
+        }
+      ]
+    },
+    {
+      "id": 57030872,
+      "uid": "8c35100773a8026b5ae57b7d19b05ca79dbb6c436bb07ebdc15113662ef9e810",
+      "title": "zoom.us",
+      "note": "Post Attendee - Zoom",
+      "date": "2017-12-05",
+      "from": "2017-12-05T07:30:11-08:00",
+      "to": "2017-12-05T08:18:12-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 48,
+        "seconds": 1,
+        "formatted": "00:48",
+        "total_hours": 0.8,
+        "total_seconds": 2881,
+        "total_minutes": 48
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Safari" },
+        { "name": "detail", "value": "https://zoom.us/postattendee?id=1" }
+      ],
+      "icon": "safari.png",
+      "color": "rgba(52,166,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23255383,
+          "uid": "76c480188c688a7e17a72ae3cf36670040755c5686b7b0c00c07edb185f9cee4",
+          "entry_id": 57030872,
+          "from": "2017-12-05T07:30:20-08:00",
+          "to": "2017-12-05T08:18:11-08:00",
+          "note": "Zoom Meeting ID: 507-498-7290"
+        },
+        {
+          "id": 23255408,
+          "uid": "60f4a81d95cc71e0854b889de5202c39fe14f1a3a61ff502aaf17404af307752",
+          "entry_id": 57030872,
+          "from": "2017-12-05T07:32:51-08:00",
+          "to": "2017-12-05T08:18:09-08:00",
+          "note": "Zoom"
+        }
+      ]
+    },
+    {
+      "id": 57056134,
+      "uid": "02e1a32f41cf9bd305166661342f2e523307a86fc8536cee45e76829bbd8e4a0",
+      "title": "hourstack.io",
+      "note": "Integrations | Github - HourStack",
+      "date": "2017-12-05",
+      "from": "2017-12-05T08:19:33-08:00",
+      "to": "2017-12-05T08:24:35-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 2,
+        "formatted": "00:05",
+        "total_hours": 0.08333333333333333,
+        "total_seconds": 302,
+        "total_minutes": 5
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Safari" },
+        { "name": "detail", "value": "https://hourstack.io/integrations/github" }
+      ],
+      "icon": "safari.png",
+      "color": "rgba(52,166,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23266979,
+          "uid": "a2883890afbf66d196b91472ddf2c602a464288aadb18e9bd9afa2e0dba0055b",
+          "entry_id": 57056134,
+          "from": "2017-12-05T08:19:33-08:00",
+          "to": "2017-12-05T08:19:42-08:00",
+          "note": "HourStack - Team Based Time Tracking and Resource Scheduling Software"
+        },
+        {
+          "id": 23266984,
+          "uid": "9514f2d3da62054aaa301bae0bb38491bf57396e8eeddeb7e7e330002eb6d016",
+          "entry_id": 57056134,
+          "from": "2017-12-05T08:19:43-08:00",
+          "to": "2017-12-05T08:20:28-08:00",
+          "note": "Integrations - HourStack"
+        },
+        {
+          "id": 23266985,
+          "uid": "6c8b75f1d9e296d581ee6a444a6ef4d9b2b20926862eef5458ea5a81c7232bdc",
+          "entry_id": 57056134,
+          "from": "2017-12-05T08:19:54-08:00",
+          "to": "2017-12-05T08:20:26-08:00",
+          "note": "Integrations | Trello - HourStack"
+        },
+        {
+          "id": 23266996,
+          "uid": "0b80cfdd2deea1e430e732a6fe16d0801a4c0a12759d5028eb8a5f0b8766e096",
+          "entry_id": 57056134,
+          "from": "2017-12-05T08:20:29-08:00",
+          "to": "2017-12-05T08:24:35-08:00",
+          "note": "Integrations | Github - HourStack"
+        }
+      ]
+    },
+    {
+      "id": 57061127,
+      "uid": "fc590c04f3cdcb999ecd01846f0fc519231b2c2c28ea5921fac68ba176cdf187",
+      "title": "17hats.com",
+      "note": "17hats",
+      "date": "2017-12-05",
+      "from": "2017-12-05T08:24:43-08:00",
+      "to": "2017-12-05T08:27:50-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 7,
+        "formatted": "00:03",
+        "total_hours": 0.05,
+        "total_seconds": 187,
+        "total_minutes": 3
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Safari" },
+        { "name": "detail", "value": "https://www.17hats.com/features" }
+      ],
+      "icon": "safari.png",
+      "color": "rgba(52,166,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23268242,
+          "uid": "c12034c58b3a590501ddf9cb62be0053c46a83043073fe4138f76a63ceb10ab2",
+          "entry_id": 57061127,
+          "from": "2017-12-05T08:24:43-08:00",
+          "to": "2017-12-05T08:27:50-08:00",
+          "note": "17hats"
+        }
+      ]
+    },
+    {
+      "id": 57061164,
+      "uid": "75134d450c4f6f57b33c5587eee1547cbb96f64d44433f1708f45f11991491fa",
+      "title": "timelyapp.com",
+      "note": "Plans and Pricing - Timely",
+      "date": "2017-12-05",
+      "from": "2017-12-05T08:27:56-08:00",
+      "to": "2017-12-05T08:35:58-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 2,
+        "formatted": "00:08",
+        "total_hours": 0.13333333333333333,
+        "total_seconds": 482,
+        "total_minutes": 8
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Safari" },
+        { "name": "detail", "value": "https://timelyapp.com/pricing" }
+      ],
+      "icon": "safari.png",
+      "color": "rgba(52,166,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23268263,
+          "uid": "ffc98eb1b04e71cda498cc0594d9c3596178803bb0b3588cdbd4341e13ca5cc9",
+          "entry_id": 57061164,
+          "from": "2017-12-05T08:27:56-08:00",
+          "to": "2017-12-05T08:28:06-08:00",
+          "note": "The best time tracking app for productive teams. - Timely"
+        },
+        {
+          "id": 23268269,
+          "uid": "b3c1565eb34d30d76cbcadd88fc1749e1c0a3555e3bf4bf0378b223ec27b31e6",
+          "entry_id": 57061164,
+          "from": "2017-12-05T08:28:08-08:00",
+          "to": "2017-12-05T08:35:58-08:00",
+          "note": "Plans and Pricing - Timely"
+        }
+      ]
+    },
+    {
+      "id": 57065846,
+      "uid": "46df8dc3a09a1bebba7365d74a20e98dd6a75cf7c2d65620202a840718a6e0b3",
+      "title": "Basecamp 3",
+      "note": "Where is my time going?",
+      "date": "2017-12-05",
+      "from": "2017-12-05T08:36:41-08:00",
+      "to": "2017-12-05T09:29:14-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 52,
+        "seconds": 33,
+        "formatted": "00:52",
+        "total_hours": 0.8666666666666667,
+        "total_seconds": 3153,
+        "total_minutes": 52
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Basecamp 3" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "basecamp.png",
+      "color": "rgba(245, 179, 137, 0.3)",
+      "sub_entries": [
+        {
+          "id": 23270407,
+          "uid": "e68470d5e4043f5b33d9be5edcebde9f4efdc73c2501f487c06e54e3f4cf1241",
+          "entry_id": 57065846,
+          "from": "2017-12-05T08:36:57-08:00",
+          "to": "2017-12-05T09:18:05-08:00",
+          "note": "Revamping Tags"
+        },
+        {
+          "id": 23278669,
+          "uid": "0f55819f98c97383396c11a7fba04b16a3632c57eadb35124e0a9b5496ef5dd3",
+          "entry_id": 57065846,
+          "from": "2017-12-05T09:18:06-08:00",
+          "to": "2017-12-05T09:29:14-08:00",
+          "note": "Where is my time going?"
+        }
+      ]
+    },
+    {
+      "id": 57108640,
+      "uid": "59dccc1ba436959ecd79c3bd5cdc10bdda8eedf89ceb2a12ff9d562bf19200d1",
+      "title": "app.clubhouse.io",
+      "note": "Reporting with widgets and templates | Clubhouse",
+      "date": "2017-12-05",
+      "from": "2017-12-05T10:30:39-08:00",
+      "to": "2017-12-05T10:46:59-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 20,
+        "formatted": "00:16",
+        "total_hours": 0.26666666666666666,
+        "total_seconds": 980,
+        "total_minutes": 16
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Safari" },
+        {
+          "name": "detail",
+          "value":
+            "https://app.clubhouse.io/timelyapp/story/2740/reporting-with-widgets-and-templates"
+        }
+      ],
+      "icon": "safari.png",
+      "color": "rgba(52,166,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23291154,
+          "uid": "7674136691335bd4ddecc71fcae466b3145bfcaf40d6c48449f265776c4eb991",
+          "entry_id": 57108640,
+          "from": "2017-12-05T10:30:39-08:00",
+          "to": "2017-12-05T10:34:06-08:00",
+          "note": "Implement new UI as re-usable Components /w Storybooks | Clubhouse"
+        },
+        {
+          "id": 23291159,
+          "uid": "885cc16b0cb6e74327a56318ad4f5e691e0598bce26eb34ee73aade400a65cf1",
+          "entry_id": 57108640,
+          "from": "2017-12-05T10:34:07-08:00",
+          "to": "2017-12-05T10:38:25-08:00",
+          "note": "Unsaved Workspace | Stories | Clubhouse"
+        },
+        {
+          "id": 23291165,
+          "uid": "3c3181e8dd6cfd7ba981a73f6a3ef283ae1ebbccab35a458976e34228c6bfb93",
+          "entry_id": 57108640,
+          "from": "2017-12-05T10:34:23-08:00",
+          "to": "2017-12-05T10:38:16-08:00",
+          "note": "User details are not updated with the current teams user is in | Clubhouse"
+        },
+        {
+          "id": 23291981,
+          "uid": "f63a8b449f804a99e7a1bcb64ec1bb7dedfafcc631468f70062eb4e460f2caee",
+          "entry_id": 57108640,
+          "from": "2017-12-05T10:38:26-08:00",
+          "to": "2017-12-05T10:39:13-08:00",
+          "note":
+            "[Saving Entry] Users are receiving an error that they cannot save their entries. They receive a forbidden code | Clubhouse"
+        },
+        {
+          "id": 23293451,
+          "uid": "0529d2986da77f212d56b2b7a52dc1b7906ae27183c99eadc1663ee83c26288f",
+          "entry_id": 57108640,
+          "from": "2017-12-05T10:46:32-08:00",
+          "to": "2017-12-05T10:46:59-08:00",
+          "note": "Reporting with widgets and templates | Clubhouse"
+        }
+      ]
+    },
+    {
+      "id": 57111465,
+      "uid": "d297b0af29a83c02b8d2e2d2faa8d98f0dcc3dd43b52a2bfff440f793a5626fd",
+      "title": "github.com",
+      "note":
+        "Rework app structure according to JTBD by jkarsrud · Pull Request #636 · Timely/Frontend",
+      "date": "2017-12-05",
+      "from": "2017-12-05T10:34:48-08:00",
+      "to": "2017-12-05T10:41:03-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 15,
+        "formatted": "00:06",
+        "total_hours": 0.1,
+        "total_seconds": 375,
+        "total_minutes": 6
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Safari" },
+        { "name": "detail", "value": "https://github.com/Timely/Frontend/pull/636/files" }
+      ],
+      "icon": "safari.png",
+      "color": "rgba(52,166,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23291774,
+          "uid": "5251815d8ea68b628a1e89109b59371057d92602e4c01d06a84754c2db4153cb",
+          "entry_id": 57111465,
+          "from": "2017-12-05T10:34:48-08:00",
+          "to": "2017-12-05T10:35:04-08:00",
+          "note": "Page not found · GitHub"
+        },
+        {
+          "id": 23291783,
+          "uid": "77a17f7bfcfc7de05c8d72d3a9248cd621e9c8bdaf42aece26d8d001673d9f88",
+          "entry_id": 57111465,
+          "from": "2017-12-05T10:35:05-08:00",
+          "to": "2017-12-05T10:35:14-08:00",
+          "note": "Frontend/timelyMiddleware.js at master · Timely/Frontend"
+        },
+        {
+          "id": 23291786,
+          "uid": "1daf1cb36e64c1cb2d70b854c05d396c97a0aef49f1bb4520b9e3a32be10871b",
+          "entry_id": 57111465,
+          "from": "2017-12-05T10:39:29-08:00",
+          "to": "2017-12-05T10:39:38-08:00",
+          "note": "Teams minor tweaks by t1mmen · Pull Request #639 · Timely/Frontend"
+        },
+        {
+          "id": 23291792,
+          "uid": "7a70a2dc60a81b5011a6281552f9960576f1482ffae95294a918f08f2e7c51f8",
+          "entry_id": 57111465,
+          "from": "2017-12-05T10:39:44-08:00",
+          "to": "2017-12-05T10:41:03-08:00",
+          "note":
+            "Rework app structure according to JTBD by jkarsrud · Pull Request #636 · Timely/Frontend"
+        }
+      ]
+    },
+    {
+      "id": 57113672,
+      "uid": "9bb9addf049794b0cab9316173c2963c1be609a007a5f0889500b0ddefb5d33b",
+      "title": "Timely",
+      "note": "Slack - Timely",
+      "date": "2017-12-05",
+      "from": "2017-12-05T10:41:10-08:00",
+      "to": "2017-12-05T10:44:35-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 25,
+        "formatted": "00:03",
+        "total_hours": 0.05,
+        "total_seconds": 205,
+        "total_minutes": 3
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Slack" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "slack.png",
+      "color": "rgba(255,123,49,0.30)",
+      "sub_entries": [
+        {
+          "id": 23292679,
+          "uid": "e6b67f1ccd95676ec4d109302d09fd5e8212a990589e5432b18ec3176a52256a",
+          "entry_id": 57113672,
+          "from": "2017-12-05T10:41:10-08:00",
+          "to": "2017-12-05T10:44:35-08:00",
+          "note": "Slack - Timely"
+        }
+      ]
+    },
+    {
+      "id": 57115011,
+      "uid": "d916db7ad54511f506afb880b4c64e855f54363777d52783663d4d49d635e158",
+      "title": "Basecamp 3",
+      "note": "API and data structures",
+      "date": "2017-12-05",
+      "from": "2017-12-05T10:44:38-08:00",
+      "to": "2017-12-05T11:07:19-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 22,
+        "seconds": 41,
+        "formatted": "00:22",
+        "total_hours": 0.36666666666666664,
+        "total_seconds": 1361,
+        "total_minutes": 22
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Basecamp 3" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "basecamp.png",
+      "color": "rgba(245, 179, 137, 0.3)",
+      "sub_entries": [
+        {
+          "id": 23293297,
+          "uid": "7560de25b116e38e6f10b4836bd9bd864295bd1e8e81e6733afae4b8eb9573c1",
+          "entry_id": 57115011,
+          "from": "2017-12-05T10:44:44-08:00",
+          "to": "2017-12-05T10:45:53-08:00",
+          "note": " Week 49 – Growth Update"
+        },
+        {
+          "id": 23293301,
+          "uid": "6fef511080fbaa0d231fa3fdfd9d06e95e3c57400ba70d5e2ea3ea21336aee7d",
+          "entry_id": 57115011,
+          "from": "2017-12-05T10:45:54-08:00",
+          "to": "2017-12-05T10:46:06-08:00",
+          "note": "Answers to “Have a bright idea?”"
+        },
+        {
+          "id": 23293306,
+          "uid": "07296ec27278c930bb41cbdf029df5de1cbd0dc79d552a6794d2cf444669740b",
+          "entry_id": 57115011,
+          "from": "2017-12-05T10:46:07-08:00",
+          "to": "2017-12-05T11:07:19-08:00",
+          "note": "API and data structures"
+        }
+      ]
+    },
+    {
+      "id": 57115323,
+      "uid": "d3eb8466ca9be8ab9a386eb28dacc99355df2389390fd9943790e8245631880c",
+      "title": "Messages",
+      "note": "",
+      "date": "2017-12-05",
+      "from": "2017-12-05T10:42:42-08:00",
+      "to": "2017-12-05T10:58:46-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 4,
+        "formatted": "00:16",
+        "total_hours": 0.26666666666666666,
+        "total_seconds": 964,
+        "total_minutes": 16
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Messages" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "messages.png",
+      "color": "rgba(86,210,255,0.30)",
+      "sub_entries": []
+    },
+    {
+      "id": 57120324,
+      "uid": "a198d2dde9a56ad7e04e75273ca2ee4c980abd048ccb67d6ac50a1d21ca4929c",
+      "title": "app.clubhouse.io",
+      "note": "Reporting with widgets and templates | Clubhouse",
+      "date": "2017-12-05",
+      "from": "2017-12-05T11:03:41-08:00",
+      "to": "2017-12-05T11:06:31-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 50,
+        "formatted": "00:02",
+        "total_hours": 0.03333333333333333,
+        "total_seconds": 170,
+        "total_minutes": 2
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Safari" },
+        {
+          "name": "detail",
+          "value":
+            "https://app.clubhouse.io/timelyapp/story/2740/reporting-with-widgets-and-templates"
+        }
+      ],
+      "icon": "safari.png",
+      "color": "rgba(52,166,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23295715,
+          "uid": "71cc1c025398feff0cbc25ab55ed926ca2ffe39c503cc79c21603a194f906a5c",
+          "entry_id": 57120324,
+          "from": "2017-12-05T11:03:42-08:00",
+          "to": "2017-12-05T11:06:31-08:00",
+          "note": "Reporting with widgets and templates | Clubhouse"
+        }
+      ]
+    },
+    {
+      "id": 57122072,
+      "uid": "485d3233595907ce292dae9f2265a577fabaed9588e738e5a996ae3ad64139f6",
+      "title": "Timely",
+      "note": "Slack - Timely",
+      "date": "2017-12-05",
+      "from": "2017-12-05T11:07:22-08:00",
+      "to": "2017-12-05T11:34:23-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 27,
+        "seconds": 1,
+        "formatted": "00:27",
+        "total_hours": 0.45,
+        "total_seconds": 1621,
+        "total_minutes": 27
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Slack" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "slack.png",
+      "color": "rgba(255,123,49,0.30)",
+      "sub_entries": [
+        {
+          "id": 23296262,
+          "uid": "62e73ee39ee96d1e9670cdbf4abcf4f7ea453eb416d742da8792b7840115c016",
+          "entry_id": 57122072,
+          "from": "2017-12-05T11:07:22-08:00",
+          "to": "2017-12-05T11:34:23-08:00",
+          "note": "Slack - Timely"
+        }
+      ]
+    },
+    {
+      "id": 57128140,
+      "uid": "a5157d264dc70414a905299c9a16621f99844f9adcec64602de495ef8dd57394",
+      "title": "Web. Reports",
+      "note": "Web. Reports",
+      "date": "2017-12-05",
+      "from": "2017-12-05T11:16:34-08:00",
+      "to": "2017-12-05T12:17:42-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 1,
+        "minutes": 1,
+        "seconds": 8,
+        "formatted": "01:01",
+        "total_hours": 1.0166666666666666,
+        "total_seconds": 3668,
+        "total_minutes": 61
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Sketch" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "sketch.png",
+      "color": "rgba(253,251,118,0.30)",
+      "sub_entries": [
+        {
+          "id": 23298266,
+          "uid": "d5695fe7282184e43e1a8e875b8919e2b9a0b46948b51371f8d7b68d236b69e8",
+          "entry_id": 57128140,
+          "from": "2017-12-05T11:16:34-08:00",
+          "to": "2017-12-05T12:17:42-08:00",
+          "note": "Web. Reports"
+        }
+      ]
+    },
+    {
+      "id": 57130432,
+      "uid": "3ff4578a5c312893fbf7e2234c1e6c3306b1521b2a45eb12b771d064dfb4b444",
+      "title": "Basecamp 3",
+      "note": "API and data structures",
+      "date": "2017-12-05",
+      "from": "2017-12-05T11:20:35-08:00",
+      "to": "2017-12-05T11:37:06-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 16,
+        "seconds": 31,
+        "formatted": "00:16",
+        "total_hours": 0.26666666666666666,
+        "total_seconds": 991,
+        "total_minutes": 16
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Basecamp 3" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "basecamp.png",
+      "color": "rgba(245, 179, 137, 0.3)",
+      "sub_entries": [
+        {
+          "id": 23299236,
+          "uid": "c94c141c0f16b36e7ad3717f0b63ae0fe47e18e72ddf5bd75126a5b53adf4a25",
+          "entry_id": 57130432,
+          "from": "2017-12-05T11:20:36-08:00",
+          "to": "2017-12-05T11:37:06-08:00",
+          "note": "API and data structures"
+        }
+      ]
+    },
+    {
+      "id": 57130654,
+      "uid": "5bd7c79ebff023d009ef926fb58e9e8a10d61bb4a215cfd5dc8a7953516f8c4e",
+      "title": "Visual Studio Code",
+      "note": "reports.simplified.story.js — timely-frontend",
+      "date": "2017-12-05",
+      "from": "2017-12-05T11:18:32-08:00",
+      "to": "2017-12-05T11:22:22-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 50,
+        "formatted": "00:03",
+        "total_hours": 0.05,
+        "total_seconds": 230,
+        "total_minutes": 3
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Visual Studio Code" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "visual_studio_code.png",
+      "color": "rgba(86,210,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23299461,
+          "uid": "d1e4bf4473ca82a2186c79483315eb4065582d53cc824da7e03bd9b6a3ee2e34",
+          "entry_id": 57130654,
+          "from": "2017-12-05T11:18:38-08:00",
+          "to": "2017-12-05T11:22:01-08:00",
+          "note": "package.json — timely-frontend"
+        },
+        {
+          "id": 23299475,
+          "uid": "3e4c93b4a84a4a2fb3092a8dd07cfd300933e9cecfb5a73f6cb419b5a7ab6dca",
+          "entry_id": 57130654,
+          "from": "2017-12-05T11:22:02-08:00",
+          "to": "2017-12-05T11:22:20-08:00",
+          "note": "reports.index.story.js — timely-frontend"
+        }
+      ]
+    },
+    {
+      "id": 57132429,
+      "uid": "83e3894eddf95c4b45d0624f69df26275ff6806560a2dcb2ec7eac2a4dbc5e74",
+      "title": "Visual Studio Code",
+      "note": "Container.scss — timely-frontend",
+      "date": "2017-12-05",
+      "from": "2017-12-05T11:34:31-08:00",
+      "to": "2017-12-05T11:42:32-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 8,
+        "seconds": 1,
+        "formatted": "00:08",
+        "total_hours": 0.13333333333333333,
+        "total_seconds": 481,
+        "total_minutes": 8
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Visual Studio Code" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "visual_studio_code.png",
+      "color": "rgba(86,210,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23300987,
+          "uid": "adfdb952c855f9cca4fc4c55acfa79dfc9c2c59360c12e9651c0e672271308b1",
+          "entry_id": 57132429,
+          "from": "2017-12-05T11:34:31-08:00",
+          "to": "2017-12-05T11:37:20-08:00",
+          "note": "reports.simplified.story.js — timely-frontend"
+        },
+        {
+          "id": 23300991,
+          "uid": "20937867937b8aa9d9f48598136c212bb430be179115153754b10e135a2d337f",
+          "entry_id": 57132429,
+          "from": "2017-12-05T11:37:21-08:00",
+          "to": "2017-12-05T11:40:54-08:00",
+          "note": "report.details.story.js — timely-frontend"
+        },
+        {
+          "id": 23300998,
+          "uid": "772fc92409b1765062c04404c653a99562d972b7cd4a50f2a42dacf76dd9151c",
+          "entry_id": 57132429,
+          "from": "2017-12-05T11:40:55-08:00",
+          "to": "2017-12-05T11:42:03-08:00",
+          "note": "Container.js — timely-frontend"
+        },
+        {
+          "id": 23301536,
+          "uid": "0823d78f3fd6045a313b2c24009f0851d5ce2678dd1d2d366faaf9394badec93",
+          "entry_id": 57132429,
+          "from": "2017-12-05T11:41:01-08:00",
+          "to": "2017-12-05T11:42:32-08:00",
+          "note": "Container.scss — timely-frontend"
+        }
+      ]
+    },
+    {
+      "id": 57139380,
+      "uid": "d33259a04594863c8b17a312121bfb3aa509799da9da68807ce8d8dbd051a71c",
+      "title": "Basecamp 3",
+      "note": "API and data structures",
+      "date": "2017-12-05",
+      "from": "2017-12-05T12:05:21-08:00",
+      "to": "2017-12-05T12:08:05-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 44,
+        "formatted": "00:02",
+        "total_hours": 0.03333333333333333,
+        "total_seconds": 164,
+        "total_minutes": 2
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Basecamp 3" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "basecamp.png",
+      "color": "rgba(245, 179, 137, 0.3)",
+      "sub_entries": [
+        {
+          "id": 23304528,
+          "uid": "0a8f934c2b0cd84b6ddf2facfe8abb27de6513726dd5359f56ae5cff380837ce",
+          "entry_id": 57139380,
+          "from": "2017-12-05T12:05:21-08:00",
+          "to": "2017-12-05T12:08:05-08:00",
+          "note": "API and data structures"
+        }
+      ]
+    },
+    {
+      "id": 57141859,
+      "uid": "ebf1a2dbddc78f2939d0f7b94b770c123c2f7016c0a2d779a08434f2ac4211f8",
+      "title": "Timely",
+      "note": "Slack - Timely",
+      "date": "2017-12-05",
+      "from": "2017-12-05T12:15:57-08:00",
+      "to": "2017-12-05T12:20:03-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 4,
+        "seconds": 6,
+        "formatted": "00:04",
+        "total_hours": 0.06666666666666667,
+        "total_seconds": 246,
+        "total_minutes": 4
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Slack" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "slack.png",
+      "color": "rgba(255,123,49,0.30)",
+      "sub_entries": [
+        {
+          "id": 23305867,
+          "uid": "7c8fd6a226e15ac5f8f2eec0b861b7d2fb5f021b8258d22d5c26ca7e6882965d",
+          "entry_id": 57141859,
+          "from": "2017-12-05T12:15:57-08:00",
+          "to": "2017-12-05T12:20:03-08:00",
+          "note": "Slack - Timely"
+        }
+      ]
+    },
+    {
+      "id": 57142648,
+      "uid": "3da2235e255e9379d8bfb80271c46da7d48c123994f2e1ac3160eecd0f0789c2",
+      "title": "localhost",
+      "note": "Storybook",
+      "date": "2017-12-05",
+      "from": "2017-12-05T12:11:47-08:00",
+      "to": "2017-12-05T12:26:47-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 0,
+        "formatted": "00:15",
+        "total_hours": 0.25,
+        "total_seconds": 900,
+        "total_minutes": 15
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        {
+          "name": "detail",
+          "value":
+            "http://localhost:9001/?selectedKind=UI%20Samples%2FReport\u0026selectedStory=No%20Tabs%20UI\u0026full=0\u0026down=1\u0026left=1\u0026panelRight=0\u0026downPanel=storybook%2Factions%2Factions-panel"
+        }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23306069,
+          "uid": "70a484eac8149627251363f5babaab342d13eb896b9debb87bbb586d4fd6dbfb",
+          "entry_id": 57142648,
+          "from": "2017-12-05T12:11:47-08:00",
+          "to": "2017-12-05T12:26:47-08:00",
+          "note": "Storybook"
+        }
+      ]
+    },
+    {
+      "id": 57142946,
+      "uid": "44cbb26748ba9188f477dcdb2755db5354877bcf339961c1db8fe2f599746f2d",
+      "title": "Visual Studio Code",
+      "note": "Icons.js — timely-frontend",
+      "date": "2017-12-05",
+      "from": "2017-12-05T12:09:40-08:00",
+      "to": "2017-12-05T13:35:37-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 1,
+        "minutes": 25,
+        "seconds": 57,
+        "formatted": "01:25",
+        "total_hours": 1.4166666666666667,
+        "total_seconds": 5157,
+        "total_minutes": 85
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Visual Studio Code" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "visual_studio_code.png",
+      "color": "rgba(86,210,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23306144,
+          "uid": "e0f96d418262bef25eb958755d4d0b04929ebd4cb7919db8cb2ec58d1fbcd8c5",
+          "entry_id": 57142946,
+          "from": "2017-12-05T12:09:40-08:00",
+          "to": "2017-12-05T12:20:55-08:00",
+          "note": "Container.scss — timely-frontend"
+        },
+        {
+          "id": 23306150,
+          "uid": "4e6f1f3037094128625e6a59c2ef9dab8269456c3f0d1c2a1c0cee68c605ffb6",
+          "entry_id": 57142946,
+          "from": "2017-12-05T12:09:45-08:00",
+          "to": "2017-12-05T12:14:48-08:00",
+          "note": "Container.js — timely-frontend"
+        },
+        {
+          "id": 23306180,
+          "uid": "e4cb5c3c4c8fdd21f6a8102f595957442f1cced9fac9595ba2adfa5e14b615e1",
+          "entry_id": 57142946,
+          "from": "2017-12-05T12:09:46-08:00",
+          "to": "2017-12-05T12:27:17-08:00",
+          "note": "report.details.story.js — timely-frontend"
+        },
+        {
+          "id": 23306197,
+          "uid": "3197d2ef77ec9bc193ed84d951e63fbbd16e71de27cda21d2370a080145dd4eb",
+          "entry_id": 57142946,
+          "from": "2017-12-05T12:12:59-08:00",
+          "to": "2017-12-05T12:27:18-08:00",
+          "note": "variables.scss — timely-frontend"
+        },
+        {
+          "id": 23306199,
+          "uid": "3f249a22a66f63cbf2b7b5ae68cb4db4bd528e168b353e333daa19cb92a0a2a5",
+          "entry_id": 57142946,
+          "from": "2017-12-05T12:14:49-08:00",
+          "to": "2017-12-05T13:34:56-08:00",
+          "note": "index.js — timely-frontend"
+        },
+        {
+          "id": 23307583,
+          "uid": "ff37989ba2d39466ec2977b321b63a7830754cb2f1dd08f24fa540f149a289ff",
+          "entry_id": 57142946,
+          "from": "2017-12-05T12:15:07-08:00",
+          "to": "2017-12-05T13:26:09-08:00",
+          "note": "index.scss — timely-frontend"
+        },
+        {
+          "id": 23307590,
+          "uid": "c1d79419dfe6b5f6c6b9cb2a28e5dbcb5989c6c7598329a4625e4fd979097e79",
+          "entry_id": 57142946,
+          "from": "2017-12-05T12:27:19-08:00",
+          "to": "2017-12-05T13:34:44-08:00",
+          "note": "reports.simplified.story.js — timely-frontend"
+        },
+        {
+          "id": 23309171,
+          "uid": "e161820fcc1f6ecf03ab25457ea4ac297b294c144b5fae5f060d486b3773c1b2",
+          "entry_id": 57142946,
+          "from": "2017-12-05T12:29:54-08:00",
+          "to": "2017-12-05T12:30:08-08:00",
+          "note": "reports.index.story.js — timely-frontend"
+        },
+        {
+          "id": 23311848,
+          "uid": "55f0185bbdfef7dedefac83af6f800691dac38d85b15d7f3ef1afa071b610e6f",
+          "entry_id": 57142946,
+          "from": "2017-12-05T12:51:03-08:00",
+          "to": "2017-12-05T12:53:17-08:00",
+          "note": "Shapes.js — timely-frontend"
+        },
+        {
+          "id": 23311866,
+          "uid": "cfa4d161d9612d7bd45b298dfaa518ac8adb52091662f225463112e6cd6eeb74",
+          "entry_id": 57142946,
+          "from": "2017-12-05T12:53:18-08:00",
+          "to": "2017-12-05T13:35:37-08:00",
+          "note": "Icons.js — timely-frontend"
+        }
+      ]
+    },
+    {
+      "id": 57152847,
+      "uid": "d3fd55d82f8e7871c77347566af3a54cbf6290dd8d02b33aa4a3bab1bbb2fe57",
+      "title": "petercollingridge.appspot.com",
+      "note": "SVG-Optimiser",
+      "date": "2017-12-05",
+      "from": "2017-12-05T12:49:56-08:00",
+      "to": "2017-12-05T12:55:24-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 28,
+        "formatted": "00:05",
+        "total_hours": 0.08333333333333333,
+        "total_seconds": 328,
+        "total_minutes": 5
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        { "name": "detail", "value": "http://petercollingridge.appspot.com/svg-optimiser" }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23311878,
+          "uid": "3eb55f2a7b4132e39728c5da200f4b0cbafa51c0bce60184e4d64bf49f04b766",
+          "entry_id": 57152847,
+          "from": "2017-12-05T12:49:56-08:00",
+          "to": "2017-12-05T12:55:24-08:00",
+          "note": "SVG-Optimiser"
+        }
+      ]
+    },
+    {
+      "id": 57156634,
+      "uid": "739c130524dcecc94e612502309a7c0560be7e52e5f3cd03613d812e5daebaaf",
+      "title": "localhost",
+      "note": "Storybook",
+      "date": "2017-12-05",
+      "from": "2017-12-05T13:01:53-08:00",
+      "to": "2017-12-05T13:07:14-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 21,
+        "formatted": "00:05",
+        "total_hours": 0.08333333333333333,
+        "total_seconds": 321,
+        "total_minutes": 5
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        {
+          "name": "detail",
+          "value":
+            "http://localhost:9001/?selectedKind=UI%20Samples%2FReport\u0026selectedStory=No%20Tabs%20UI\u0026full=0\u0026down=1\u0026left=1\u0026panelRight=0\u0026downPanel=storybook%2Factions%2Factions-panel"
+        }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23313483,
+          "uid": "df8dbcbb3b945f08b71c34c3fe2847e2def3d83c756e3292a6fa77b7d2129620",
+          "entry_id": 57156634,
+          "from": "2017-12-05T13:01:53-08:00",
+          "to": "2017-12-05T13:07:14-08:00",
+          "note": "Storybook"
+        }
+      ]
+    },
+    {
+      "id": 57163140,
+      "uid": "4c211efcd5b91aab43fe2a230b322d022cf4d476ab4616b35c4c2870d4eec2c5",
+      "title": "petercollingridge.appspot.com",
+      "note": "SVG-Optimiser",
+      "date": "2017-12-05",
+      "from": "2017-12-05T13:10:21-08:00",
+      "to": "2017-12-05T13:13:12-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 51,
+        "formatted": "00:02",
+        "total_hours": 0.03333333333333333,
+        "total_seconds": 171,
+        "total_minutes": 2
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        { "name": "detail", "value": "http://petercollingridge.appspot.com/svg-optimiser" }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23315196,
+          "uid": "b8ea8ac249dbc37913bdef6fe6f0fd68c539c230de8fa4677b4e5ade2f87f82c",
+          "entry_id": 57163140,
+          "from": "2017-12-05T13:10:21-08:00",
+          "to": "2017-12-05T13:13:12-08:00",
+          "note": "SVG-Optimiser"
+        }
+      ]
+    },
+    {
+      "id": 57169772,
+      "uid": "5fc61687f945f4b87731309b3a4d47906b529f521beb9debbdb5d97e0076a2a7",
+      "title": "localhost",
+      "note": "Storybook",
+      "date": "2017-12-05",
+      "from": "2017-12-05T13:17:27-08:00",
+      "to": "2017-12-05T13:25:05-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 38,
+        "formatted": "00:07",
+        "total_hours": 0.11666666666666667,
+        "total_seconds": 458,
+        "total_minutes": 7
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        {
+          "name": "detail",
+          "value":
+            "http://localhost:9001/?selectedKind=UI%20Samples%2FReport\u0026selectedStory=No%20Tabs%20UI\u0026full=0\u0026down=1\u0026left=1\u0026panelRight=0\u0026downPanel=storybook%2Factions%2Factions-panel"
+        }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23316689,
+          "uid": "143149e8c2c5996ed9f443f4de7eb50449458c38370b4a9e58e97fe18de515da",
+          "entry_id": 57169772,
+          "from": "2017-12-05T13:17:27-08:00",
+          "to": "2017-12-05T13:25:05-08:00",
+          "note": "Storybook"
+        }
+      ]
+    },
+    {
+      "id": 57170451,
+      "uid": "76e3f0bb6ff8a3c9b4248920e89b1679e68d9e8137688b0888a447e5fe2c3b77",
+      "title": "jakearchibald.github.io",
+      "note": "SVGOMG - SVGO's Missing GUI",
+      "date": "2017-12-05",
+      "from": "2017-12-05T13:15:15-08:00",
+      "to": "2017-12-05T13:20:27-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 12,
+        "formatted": "00:05",
+        "total_hours": 0.08333333333333333,
+        "total_seconds": 312,
+        "total_minutes": 5
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        { "name": "detail", "value": "https://jakearchibald.github.io/svgomg/" }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23316899,
+          "uid": "764c762dcf96e07b842a1ac7c9380a101cfa66eb54c40fd8f0144a6d38fe2f21",
+          "entry_id": 57170451,
+          "from": "2017-12-05T13:15:15-08:00",
+          "to": "2017-12-05T13:20:27-08:00",
+          "note": "SVGOMG - SVGO's Missing GUI"
+        }
+      ]
+    },
+    {
+      "id": 57172023,
+      "uid": "3ce5048198b31f164437623caac959fe2696b2debc6907e6f50f76f60b5bfded",
+      "title": "Timely",
+      "note": "Slack - Timely",
+      "date": "2017-12-05",
+      "from": "2017-12-05T13:31:20-08:00",
+      "to": "2017-12-05T14:06:29-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 35,
+        "seconds": 9,
+        "formatted": "00:35",
+        "total_hours": 0.5833333333333334,
+        "total_seconds": 2109,
+        "total_minutes": 35
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Slack" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "slack.png",
+      "color": "rgba(255,123,49,0.30)",
+      "sub_entries": [
+        {
+          "id": 23317918,
+          "uid": "9cdc57569262eca9d2ac6cc7c50e45bdd60f744959ac578498a22e26f5fd6c2c",
+          "entry_id": 57172023,
+          "from": "2017-12-05T13:31:20-08:00",
+          "to": "2017-12-05T14:06:29-08:00",
+          "note": "Slack - Timely"
+        }
+      ]
+    },
+    {
+      "id": 57178405,
+      "uid": "eba5bd9014546b5330a0109029bdf5a05b44e6c6f2bb52bef0d2adbfaaf875ec",
+      "title": "Visual Studio Code",
+      "note": "reports.simplified.story.js — timely-frontend",
+      "date": "2017-12-05",
+      "from": "2017-12-05T13:48:28-08:00",
+      "to": "2017-12-05T15:32:18-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 1,
+        "minutes": 43,
+        "seconds": 50,
+        "formatted": "01:43",
+        "total_hours": 1.7166666666666666,
+        "total_seconds": 6230,
+        "total_minutes": 103
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Visual Studio Code" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "visual_studio_code.png",
+      "color": "rgba(86,210,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23321746,
+          "uid": "864e789403cabf5d33fbd24c0ad31c718674551ac3f45f94da8c3e9f7f890991",
+          "entry_id": 57178405,
+          "from": "2017-12-05T13:48:28-08:00",
+          "to": "2017-12-05T13:48:44-08:00",
+          "note": "Small.svg — timely-frontend"
+        },
+        {
+          "id": 23321750,
+          "uid": "c2a7044b002e152faf2e0e9123927a264f442e9b19c3bc77a22a2c4a6f3b986e",
+          "entry_id": 57178405,
+          "from": "2017-12-05T13:55:19-08:00",
+          "to": "2017-12-05T15:04:40-08:00",
+          "note": "Icons.js — timely-frontend"
+        },
+        {
+          "id": 23322987,
+          "uid": "e8dd1d4f62b980bcbdd3450101586831b3452461a1661c136d598a508ad39f1f",
+          "entry_id": 57178405,
+          "from": "2017-12-05T14:07:52-08:00",
+          "to": "2017-12-05T15:05:14-08:00",
+          "note": "index.scss — timely-frontend"
+        },
+        {
+          "id": 23324647,
+          "uid": "75488104f51ec028fec53d1142b45a64c1484f1cbcbdb61da11f705b63007ee3",
+          "entry_id": 57178405,
+          "from": "2017-12-05T14:07:46-08:00",
+          "to": "2017-12-05T15:18:47-08:00",
+          "note": "index.js — timely-frontend"
+        },
+        {
+          "id": 23324661,
+          "uid": "830a06d4da81a11014cca56f6c4866f4df813901ec9c94d8f91315a61e9b4cb6",
+          "entry_id": 57178405,
+          "from": "2017-12-05T14:13:32-08:00",
+          "to": "2017-12-05T15:32:18-08:00",
+          "note": "reports.simplified.story.js — timely-frontend"
+        },
+        {
+          "id": 23324665,
+          "uid": "a8e100ca508b849aeeafda38d39373e88b9c854fda7ecd39e03e529aca28bbaa",
+          "entry_id": 57178405,
+          "from": "2017-12-05T14:17:24-08:00",
+          "to": "2017-12-05T15:04:39-08:00",
+          "note": "Container.js — timely-frontend"
+        },
+        {
+          "id": 23324672,
+          "uid": "56a344f80b9abe3857d1dacd7b1644f174d8d3517c97eba19a09ea0aa3fce007",
+          "entry_id": 57178405,
+          "from": "2017-12-05T14:17:27-08:00",
+          "to": "2017-12-05T14:54:51-08:00",
+          "note": "Container.scss — timely-frontend"
+        },
+        {
+          "id": 23328349,
+          "uid": "e167e930c0df79888e4c6fe315988a70760743465529c685c2daa973b0397721",
+          "entry_id": 57178405,
+          "from": "2017-12-05T14:41:34-08:00",
+          "to": "2017-12-05T14:53:39-08:00",
+          "note": "PopoverDropdownList.js — timely-frontend"
+        },
+        {
+          "id": 23328351,
+          "uid": "36e11e72daf6ebd4a50ada27137440f92f0340b799fe7a9465fc8290063bfeac",
+          "entry_id": 57178405,
+          "from": "2017-12-05T14:41:41-08:00",
+          "to": "2017-12-05T14:45:00-08:00",
+          "note": "TeamIndexRoute.js — timely-frontend"
+        },
+        {
+          "id": 23329519,
+          "uid": "27d3ccafc9febe2a42a03a9adbc8e1cbb659a0d0eb82d82f7641c3c811d0597c",
+          "entry_id": 57178405,
+          "from": "2017-12-05T14:46:56-08:00",
+          "to": "2017-12-05T14:53:51-08:00",
+          "note": "Popover.js — timely-frontend"
+        },
+        {
+          "id": 23329522,
+          "uid": "ca89c2574c59a9893f559b9d75e086100f66bc4a4ecd3b7da551139de5459668",
+          "entry_id": 57178405,
+          "from": "2017-12-05T14:49:24-08:00",
+          "to": "2017-12-05T14:50:52-08:00",
+          "note": "webpack.config.js — timely-frontend"
+        },
+        {
+          "id": 23330830,
+          "uid": "c54d752fd066b9c8056a78b9893cff48b79d475b59e5d0b8d7d8a8db16187cb4",
+          "entry_id": 57178405,
+          "from": "2017-12-05T14:22:54-08:00",
+          "to": "2017-12-05T15:04:43-08:00",
+          "note": "variables.scss — timely-frontend"
+        },
+        {
+          "id": 23332681,
+          "uid": "d45048740728615e7eaebf7876fef3050186c60687616008e0e0782eb30f2439",
+          "entry_id": 57178405,
+          "from": "2017-12-05T15:07:53-08:00",
+          "to": "2017-12-05T15:17:32-08:00",
+          "note": "UsersList.js — timely-frontend"
+        },
+        {
+          "id": 23333520,
+          "uid": "d8e1e0e1d2f725d31122131786106fa291a7d1337de5e760d34bef948fd59f92",
+          "entry_id": 57178405,
+          "from": "2017-12-05T15:18:26-08:00",
+          "to": "2017-12-05T15:18:43-08:00",
+          "note": "ProjectRow.js — timely-frontend"
+        },
+        {
+          "id": 23333524,
+          "uid": "2210cbe4f084168e3d22c0005ff6be6452f5fee14b1e2c873d51945b26ca8808",
+          "entry_id": 57178405,
+          "from": "2017-12-05T15:18:52-08:00",
+          "to": "2017-12-05T15:19:08-08:00",
+          "note": "EventRow.js — timely-frontend"
+        },
+        {
+          "id": 23333535,
+          "uid": "9ed06dd4ba20ca935f1eb2a08e933e6362788b7f455de28c5e23b14135499b85",
+          "entry_id": 57178405,
+          "from": "2017-12-05T15:19:46-08:00",
+          "to": "2017-12-05T15:19:58-08:00",
+          "note": "TableHeader.js — timely-frontend"
+        }
+      ]
+    },
+    {
+      "id": 57181955,
+      "uid": "5fafa2373abda437ddb32408781a4c7e005ced79f2c569fbe81ab7ab06f5f551",
+      "title": "app.zeplin.io",
+      "note": "Dashboard - Timely. Reports - Zeplin",
+      "date": "2017-12-05",
+      "from": "2017-12-05T13:52:05-08:00",
+      "to": "2017-12-05T14:02:36-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 31,
+        "formatted": "00:10",
+        "total_hours": 0.16666666666666666,
+        "total_seconds": 631,
+        "total_minutes": 10
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        { "name": "detail", "value": "https://app.zeplin.io/project/5a271454ecae72c0a3159731" }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23323040,
+          "uid": "048ea61c2adb0b58056a382e87067edddf914c7bafdb83a1603e94ce7851c311",
+          "entry_id": 57181955,
+          "from": "2017-12-05T13:52:06-08:00",
+          "to": "2017-12-05T13:52:20-08:00",
+          "note": "Zeplin - Register"
+        },
+        {
+          "id": 23323051,
+          "uid": "5a23f4bffe024e9d3b84b8ef8a115b327e0a914d7107eb50ddf93ac79f0af3ec",
+          "entry_id": 57181955,
+          "from": "2017-12-05T13:52:22-08:00",
+          "to": "2017-12-05T13:52:36-08:00",
+          "note": "Zeplin - Welcome"
+        },
+        {
+          "id": 23323056,
+          "uid": "5f5e222c84be7ac2d972d1ec7ab78d979f3a39431b8b381f04d1920ea119b310",
+          "entry_id": 57181955,
+          "from": "2017-12-05T14:02:14-08:00",
+          "to": "2017-12-05T14:02:25-08:00",
+          "note": "Zeplin - Projects"
+        }
+      ]
+    },
+    {
+      "id": 57182087,
+      "uid": "3c09426de117d7b5c6285cbf1cd590814fffa49c0659916ee1a6f6451e61ee08",
+      "title": "Zeplin",
+      "note": "Zeplin",
+      "date": "2017-12-05",
+      "from": "2017-12-05T13:53:26-08:00",
+      "to": "2017-12-05T14:23:36-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 30,
+        "seconds": 10,
+        "formatted": "00:30",
+        "total_hours": 0.5,
+        "total_seconds": 1810,
+        "total_minutes": 30
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Zeplin" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": null,
+      "color": null,
+      "sub_entries": [
+        {
+          "id": 23323077,
+          "uid": "f67f9dc6376e82b8d6ca5d640408135ff59f5b4c5e429c2257839de88c2e66a0",
+          "entry_id": 57182087,
+          "from": "2017-12-05T13:53:26-08:00",
+          "to": "2017-12-05T14:23:36-08:00",
+          "note": "Zeplin"
+        }
+      ]
+    },
+    {
+      "id": 57186730,
+      "uid": "2405fcff5c7c1ab64f460fba6aae7accca2d040644a537d562a5f1b4af140fed",
+      "title": "localhost",
+      "note": "Storybook",
+      "date": "2017-12-05",
+      "from": "2017-12-05T14:09:54-08:00",
+      "to": "2017-12-05T14:52:12-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 18,
+        "formatted": "00:42",
+        "total_hours": 0.7,
+        "total_seconds": 2538,
+        "total_minutes": 42
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        {
+          "name": "detail",
+          "value":
+            "http://localhost:9001/?selectedKind=UI%20Samples%2FReport\u0026selectedStory=No%20Tabs%20UI\u0026full=0\u0026down=1\u0026left=1\u0026panelRight=0\u0026downPanel=storybook%2Factions%2Factions-panel"
+        }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23324524,
+          "uid": "4c24572b316a9e949106570e622100071a115fc95ee35324e56c837c820d8900",
+          "entry_id": 57186730,
+          "from": "2017-12-05T14:09:54-08:00",
+          "to": "2017-12-05T14:52:12-08:00",
+          "note": "Storybook"
+        }
+      ]
+    },
+    {
+      "id": 57200876,
+      "uid": "ad7815785c2902185f14edefeec1eec26e986610fe5f8f96628507f18a7bc659",
+      "title": "Timely",
+      "note": "Slack - Timely",
+      "date": "2017-12-05",
+      "from": "2017-12-05T15:01:45-08:00",
+      "to": "2017-12-05T15:06:51-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 6,
+        "formatted": "00:05",
+        "total_hours": 0.08333333333333333,
+        "total_seconds": 306,
+        "total_minutes": 5
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Slack" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "slack.png",
+      "color": "rgba(255,123,49,0.30)",
+      "sub_entries": [
+        {
+          "id": 23331893,
+          "uid": "539ab5a827b3c4ae1bd91f950b06d1854c21db8285db00d330ba551698ff1db0",
+          "entry_id": 57200876,
+          "from": "2017-12-05T15:01:45-08:00",
+          "to": "2017-12-05T15:06:51-08:00",
+          "note": "Slack - Timely"
+        }
+      ]
+    },
+    {
+      "id": 57201093,
+      "uid": "906913e6fcf5b2dbfa1f28044eb8b26524c2208f6a9d916d0e66b82ac738d813",
+      "title": "localhost",
+      "note": "Storybook",
+      "date": "2017-12-05",
+      "from": "2017-12-05T15:03:57-08:00",
+      "to": "2017-12-05T15:19:41-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 44,
+        "formatted": "00:15",
+        "total_hours": 0.25,
+        "total_seconds": 944,
+        "total_minutes": 15
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        {
+          "name": "detail",
+          "value":
+            "http://localhost:9001/?selectedKind=UI%20Samples%2FReport\u0026selectedStory=No%20Tabs%20UI\u0026full=0\u0026down=1\u0026left=1\u0026panelRight=0\u0026downPanel=storybook%2Factions%2Factions-panel"
+        }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23332040,
+          "uid": "3ced9c2bf02b99428d67bfe943a265e1a3b358ce27e24cb6760e2440d73dac61",
+          "entry_id": 57201093,
+          "from": "2017-12-05T15:03:57-08:00",
+          "to": "2017-12-05T15:19:41-08:00",
+          "note": "Storybook"
+        }
+      ]
+    },
+    {
+      "id": 57202798,
+      "uid": "130ab4f3040f5ce4e67880b60d00e2145ef04bbede2dbab71cc286c33c25f738",
+      "title": "Zeplin",
+      "note": "Zeplin",
+      "date": "2017-12-05",
+      "from": "2017-12-05T15:11:01-08:00",
+      "to": "2017-12-05T15:20:53-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 52,
+        "formatted": "00:09",
+        "total_hours": 0.15,
+        "total_seconds": 592,
+        "total_minutes": 9
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Zeplin" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": null,
+      "color": null,
+      "sub_entries": [
+        {
+          "id": 23332746,
+          "uid": "48953de44e613afcfbed3a96d9a10fec2851d55c86053b1d4e7254d277df1669",
+          "entry_id": 57202798,
+          "from": "2017-12-05T15:11:01-08:00",
+          "to": "2017-12-05T15:20:53-08:00",
+          "note": "Zeplin"
+        }
+      ]
+    },
+    {
+      "id": 57203832,
+      "uid": "484ada6a789e4d9aefc17cd5419c734ef4807ca4be8c6f4073340d3d2f7af869",
+      "title": "github.com",
+      "note": "storybooks/storybook-deployer: Deploy your storybook as a static site",
+      "date": "2017-12-05",
+      "from": "2017-12-05T15:21:20-08:00",
+      "to": "2017-12-05T15:33:31-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 12,
+        "seconds": 11,
+        "formatted": "00:12",
+        "total_hours": 0.2,
+        "total_seconds": 731,
+        "total_minutes": 12
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        { "name": "detail", "value": "https://github.com/storybooks/storybook-deployer" }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23333935,
+          "uid": "550f68206ea157dfcae92dd40885871b6279a3aa6215d975b7a803064d71a099",
+          "entry_id": 57203832,
+          "from": "2017-12-05T15:21:20-08:00",
+          "to": "2017-12-05T15:21:32-08:00",
+          "note":
+            "jtassin/react-responsive-table: A react component for building really responsive table"
+        },
+        {
+          "id": 23333937,
+          "uid": "beb02ec3b51afa874610861bb1a9013d0211d1b42b56d8866517f7bea8ae905c",
+          "entry_id": 57203832,
+          "from": "2017-12-05T15:24:00-08:00",
+          "to": "2017-12-05T15:24:10-08:00",
+          "note": "ua-oira/react-super-responsive-table: Turn the tables on unresponsive data!"
+        },
+        {
+          "id": 23333939,
+          "uid": "a0cd1514d093ef504a57b134fbeb3514f0c4b9ef88f9b1ef62efd5368037e610",
+          "entry_id": 57203832,
+          "from": "2017-12-05T15:24:14-08:00",
+          "to": "2017-12-05T15:24:45-08:00",
+          "note":
+            "react-super-responsive-table/SuperResponsiveTable.js at master · ua-oira/react-super-responsive-table"
+        },
+        {
+          "id": 23333942,
+          "uid": "faf04edfbe3043083183d69001afa374a82ac529a692ec56d2cfcf7aae3a11b6",
+          "entry_id": 57203832,
+          "from": "2017-12-05T15:24:53-08:00",
+          "to": "2017-12-05T15:25:12-08:00",
+          "note":
+            "react-super-responsive-table/provideContext.js at master · ua-oira/react-super-responsive-table"
+        },
+        {
+          "id": 23335117,
+          "uid": "de1e2b9a770fb6660ff331718d40288983a00e8147a822dfc70ab3341c8677b3",
+          "entry_id": 57203832,
+          "from": "2017-12-05T15:32:44-08:00",
+          "to": "2017-12-05T15:33:31-08:00",
+          "note": "storybooks/storybook-deployer: Deploy your storybook as a static site"
+        }
+      ]
+    },
+    {
+      "id": 57205685,
+      "uid": "a7f2891f53b882b79c64f0c1c98d68ff4a80ed6345231a50f9774746dfb329fa",
+      "title": "Zeplin",
+      "note": "Zeplin",
+      "date": "2017-12-05",
+      "from": "2017-12-05T15:33:32-08:00",
+      "to": "2017-12-05T15:48:49-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 17,
+        "formatted": "00:15",
+        "total_hours": 0.25,
+        "total_seconds": 917,
+        "total_minutes": 15
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Zeplin" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": null,
+      "color": null,
+      "sub_entries": [
+        {
+          "id": 23335296,
+          "uid": "53b39571f3fed2d185fad91aaee15bd64cd64d71d698f6eba680a45354ea8ce9",
+          "entry_id": 57205685,
+          "from": "2017-12-05T15:33:32-08:00",
+          "to": "2017-12-05T15:48:49-08:00",
+          "note": "Zeplin"
+        }
+      ]
+    },
+    {
+      "id": 57207365,
+      "uid": "77ece558350560ff18c89dd2d56859d8ec28c5e82e68374b79c4d63346c6afae",
+      "title": "Visual Studio Code",
+      "note": "Label.js — timely-frontend",
+      "date": "2017-12-05",
+      "from": "2017-12-05T15:48:56-08:00",
+      "to": "2017-12-05T17:11:42-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 1,
+        "minutes": 22,
+        "seconds": 46,
+        "formatted": "01:22",
+        "total_hours": 1.3666666666666667,
+        "total_seconds": 4966,
+        "total_minutes": 82
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Visual Studio Code" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "visual_studio_code.png",
+      "color": "rgba(86,210,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23336943,
+          "uid": "50a750b8b59f12fb21c2638b8e56141bb25cdc70327171de21a92529c33c997a",
+          "entry_id": 57207365,
+          "from": "2017-12-05T15:49:03-08:00",
+          "to": "2017-12-05T17:11:17-08:00",
+          "note": "index.js — timely-frontend"
+        },
+        {
+          "id": 23337430,
+          "uid": "f50e042d4a6f58d24211e420ee9875e2819914e10fca0b5989ea5e35bb29e8d6",
+          "entry_id": 57207365,
+          "from": "2017-12-05T15:48:56-08:00",
+          "to": "2017-12-05T17:09:36-08:00",
+          "note": "reports.simplified.story.js — timely-frontend"
+        },
+        {
+          "id": 23337435,
+          "uid": "a9f38926e35ab404618c282ee5504a8bb56cb4de1b2daf10a81fede3a3a2d0fb",
+          "entry_id": 57207365,
+          "from": "2017-12-05T15:49:08-08:00",
+          "to": "2017-12-05T17:11:14-08:00",
+          "note": "index.scss — timely-frontend"
+        },
+        {
+          "id": 23337439,
+          "uid": "54758b0783629e568fde27dc61e6652c68f986ee0d5668e8b51604026bdfda46",
+          "entry_id": 57207365,
+          "from": "2017-12-05T15:52:51-08:00",
+          "to": "2017-12-05T16:29:35-08:00",
+          "note": "Untitled-1 — timely-frontend"
+        },
+        {
+          "id": 23339047,
+          "uid": "8dc022a7da78230b44fd17344dedfcfc0549c8b39cababec0825beec03d340b3",
+          "entry_id": 57207365,
+          "from": "2017-12-05T16:08:50-08:00",
+          "to": "2017-12-05T16:12:29-08:00",
+          "note": "TableHeader.js — timely-frontend"
+        },
+        {
+          "id": 23339048,
+          "uid": "d4dd9377d1ed32ad9f31ecb2d01f0c2339c0c41a76815821e7ac2cf9eaaee7df",
+          "entry_id": 57207365,
+          "from": "2017-12-05T16:10:36-08:00",
+          "to": "2017-12-05T17:11:21-08:00",
+          "note": "variables.scss — timely-frontend"
+        },
+        {
+          "id": 23340434,
+          "uid": "2d28ec785237b511a0ebc9f169ee0c0ab13a5f8e172e6b1dfb35f855850f3130",
+          "entry_id": 57207365,
+          "from": "2017-12-05T16:23:21-08:00",
+          "to": "2017-12-05T16:29:42-08:00",
+          "note": "AppRoute.js — timely-frontend"
+        },
+        {
+          "id": 23340435,
+          "uid": "a6728f8386a27d93cd7e68c9aff0846f0e9f426ba8d21056de1b6171b5b7574a",
+          "entry_id": 57207365,
+          "from": "2017-12-05T16:23:23-08:00",
+          "to": "2017-12-05T16:23:37-08:00",
+          "note": "AppRoute.scss — timely-frontend"
+        },
+        {
+          "id": 23340438,
+          "uid": "1adfd3e10ee29f971d1b0201e65413521aa19a1492cafed86a611d390596af09",
+          "entry_id": 57207365,
+          "from": "2017-12-05T16:23:38-08:00",
+          "to": "2017-12-05T16:30:37-08:00",
+          "note": "reset.scss — timely-frontend"
+        },
+        {
+          "id": 23341059,
+          "uid": "2ef5da5900608fc23304ec857dd697e48b677fa04c9fb149d8f9772862f437a7",
+          "entry_id": 57207365,
+          "from": "2017-12-05T16:25:26-08:00",
+          "to": "2017-12-05T16:28:37-08:00",
+          "note": "styles.scss — timely-frontend"
+        },
+        {
+          "id": 23341168,
+          "uid": "bdfa16ff2a8c91179fd4c95dc0bd2404bce2d21ff2bee78fb7f05c7634c13fca",
+          "entry_id": 57207365,
+          "from": "2017-12-05T16:29:41-08:00",
+          "to": "2017-12-05T16:33:28-08:00",
+          "note": "Container.js — timely-frontend"
+        },
+        {
+          "id": 23344438,
+          "uid": "c5c43ea87bc2cc45bdad8553c2ce2917439bb7b951089d189bf47db4fc683ce1",
+          "entry_id": 57207365,
+          "from": "2017-12-05T16:48:14-08:00",
+          "to": "2017-12-05T17:11:42-08:00",
+          "note": "Label.js — timely-frontend"
+        }
+      ]
+    },
+    {
+      "id": 57207683,
+      "uid": "9d8baa26ad297b5c702742e5d5e0dac008b96226dd9d05a9bc58438a70434fd1",
+      "title": "github.com",
+      "note":
+        "react-super-responsive-table/SuperResponsiveTableStyle.css at master · ua-oira/react-super-responsive-table",
+      "date": "2017-12-05",
+      "from": "2017-12-05T15:49:21-08:00",
+      "to": "2017-12-05T15:55:06-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 45,
+        "formatted": "00:05",
+        "total_hours": 0.08333333333333333,
+        "total_seconds": 345,
+        "total_minutes": 5
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Safari" },
+        {
+          "name": "detail",
+          "value":
+            "https://github.com/ua-oira/react-super-responsive-table/blob/master/src/SuperResponsiveTableStyle.css"
+        }
+      ],
+      "icon": "safari.png",
+      "color": "rgba(52,166,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23337308,
+          "uid": "2e429f06822d7c6e2767d0bec3626ea8fff719f832f56f2ae33d4a5ad6735503",
+          "entry_id": 57207683,
+          "from": "2017-12-05T15:49:21-08:00",
+          "to": "2017-12-05T15:54:58-08:00",
+          "note": "ua-oira/react-super-responsive-table: Turn the tables on unresponsive data!"
+        }
+      ]
+    },
+    {
+      "id": 57212235,
+      "uid": "db83e8254a6efa02070ef70ed135c9dec3951f874d7dca88f8a63dddb10ef14a",
+      "title": "localhost",
+      "note": "Storybook",
+      "date": "2017-12-05",
+      "from": "2017-12-05T15:57:33-08:00",
+      "to": "2017-12-05T16:07:42-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 10,
+        "seconds": 9,
+        "formatted": "00:10",
+        "total_hours": 0.16666666666666666,
+        "total_seconds": 609,
+        "total_minutes": 10
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        {
+          "name": "detail",
+          "value":
+            "http://localhost:9001/?selectedKind=UI%20Samples%2FReport\u0026selectedStory=No%20Tabs%20UI\u0026full=0\u0026down=1\u0026left=1\u0026panelRight=0\u0026downPanel=storybook%2Factions%2Factions-panel"
+        }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23338534,
+          "uid": "1846fd11032e6e4ad1427595ef6a1a6728ee4b8115af1293f10aecf01df77f9f",
+          "entry_id": 57212235,
+          "from": "2017-12-05T15:57:33-08:00",
+          "to": "2017-12-05T16:07:42-08:00",
+          "note": "Storybook"
+        }
+      ]
+    },
+    {
+      "id": 57214788,
+      "uid": "88d4b2ae3cefc375e7c7a4b23dccb2dd54373fd71ce60e8f51a71b3ec6d35d26",
+      "title": "fontawesome.io",
+      "note": "Get Started with Font Awesome",
+      "date": "2017-12-05",
+      "from": "2017-12-05T16:21:31-08:00",
+      "to": "2017-12-05T16:26:45-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 14,
+        "formatted": "00:05",
+        "total_hours": 0.08333333333333333,
+        "total_seconds": 314,
+        "total_minutes": 5
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        { "name": "detail", "value": "http://fontawesome.io/get-started/" }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23340453,
+          "uid": "bd60655442ba96fff574678f0ebb1801b7ab2eb04c4d0bdf0e073e0d848cd1d4",
+          "entry_id": 57214788,
+          "from": "2017-12-05T16:24:17-08:00",
+          "to": "2017-12-05T16:26:45-08:00",
+          "note": "Get Started with Font Awesome"
+        }
+      ]
+    },
+    {
+      "id": 57215461,
+      "uid": "0d9eeff509721863ee70ecd1de0babd64c4847f60c3f7b3314397c611b5f85b1",
+      "title": "localhost",
+      "note": "Storybook",
+      "date": "2017-12-05",
+      "from": "2017-12-05T16:21:02-08:00",
+      "to": "2017-12-05T16:28:30-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 28,
+        "formatted": "00:07",
+        "total_hours": 0.11666666666666667,
+        "total_seconds": 448,
+        "total_minutes": 7
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        {
+          "name": "detail",
+          "value":
+            "http://localhost:9001/?selectedKind=UI%20Samples%2FReport\u0026selectedStory=No%20Tabs%20UI\u0026full=0\u0026down=1\u0026left=1\u0026panelRight=0\u0026downPanel=storybook%2Factions%2Factions-panel"
+        }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23341044,
+          "uid": "71ef60dc45f18db61c8afdb32a0711478167be7cbe92173d5ffcae8d79fdca4d",
+          "entry_id": 57215461,
+          "from": "2017-12-05T16:21:02-08:00",
+          "to": "2017-12-05T16:28:30-08:00",
+          "note": "Storybook"
+        }
+      ]
+    },
+    {
+      "id": 57218359,
+      "uid": "64c3c20e350e5dd1a43205a17e034d378b69b694e49b8c3f235ff22a870b518f",
+      "title": "localhost",
+      "note": "Storybook",
+      "date": "2017-12-05",
+      "from": "2017-12-05T16:42:44-08:00",
+      "to": "2017-12-05T17:39:11-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 56,
+        "seconds": 27,
+        "formatted": "00:56",
+        "total_hours": 0.9333333333333333,
+        "total_seconds": 3387,
+        "total_minutes": 56
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        {
+          "name": "detail",
+          "value":
+            "http://localhost:9001/?selectedKind=UI%20Samples%2FReport\u0026selectedStory=No%20Tabs%20UI\u0026full=0\u0026down=1\u0026left=1\u0026panelRight=0\u0026downPanel=storybook%2Factions%2Factions-panel"
+        }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23342638,
+          "uid": "b092aea2abec8c7158ce33214c1c97679cece186f96a70cf6dda4dbd56c56607",
+          "entry_id": 57218359,
+          "from": "2017-12-05T16:42:44-08:00",
+          "to": "2017-12-05T17:39:11-08:00",
+          "note": "Storybook"
+        }
+      ]
+    },
+    {
+      "id": 57223845,
+      "uid": "aef02dd9b88cedac04aeddfa1f1ba937dbd5d8143ad4e4d716c05e4724178e2b",
+      "title": "Visual Studio Code",
+      "note": "index.scss — timely-frontend",
+      "date": "2017-12-05",
+      "from": "2017-12-05T17:27:01-08:00",
+      "to": "2017-12-05T19:19:56-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 1,
+        "minutes": 52,
+        "seconds": 55,
+        "formatted": "01:52",
+        "total_hours": 1.8666666666666667,
+        "total_seconds": 6775,
+        "total_minutes": 112
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Visual Studio Code" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "visual_studio_code.png",
+      "color": "rgba(86,210,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23345698,
+          "uid": "beb6ab812f7ff40cc2bf8a4c954790682a2df2bc2155d514be7d05adb2e1097c",
+          "entry_id": 57223845,
+          "from": "2017-12-05T17:27:02-08:00",
+          "to": "2017-12-05T18:57:39-08:00",
+          "note": "reports.simplified.story.js — timely-frontend"
+        },
+        {
+          "id": 23345699,
+          "uid": "aa223c2c7ef11a72bebf2c617dd8368d6ea9f29bf70bbd5be5ea346320b5ada4",
+          "entry_id": 57223845,
+          "from": "2017-12-05T17:27:56-08:00",
+          "to": "2017-12-05T18:57:40-08:00",
+          "note": "index.js — timely-frontend"
+        },
+        {
+          "id": 23345700,
+          "uid": "c0285bda193e1a13c16fd0c4b0e8034a67f06fa33c47203eca9eb25d32b0a53a",
+          "entry_id": 57223845,
+          "from": "2017-12-05T17:32:24-08:00",
+          "to": "2017-12-05T18:41:10-08:00",
+          "note": "PopoverDropdownList.js — timely-frontend"
+        },
+        {
+          "id": 23346267,
+          "uid": "b608ccb8a66b4589522c5a6e3c2d0e622e5587804dd19e34ad404bc33ff0bc0c",
+          "entry_id": 57223845,
+          "from": "2017-12-05T17:29:30-08:00",
+          "to": "2017-12-05T17:36:48-08:00",
+          "note": "TeamIndexRoute.js — timely-frontend"
+        },
+        {
+          "id": 23346270,
+          "uid": "4c6d7183af1767abbadebb77c392e69a1ed4a803ddb8d179228abfcb36864c49",
+          "entry_id": 57223845,
+          "from": "2017-12-05T17:32:52-08:00",
+          "to": "2017-12-05T17:39:28-08:00",
+          "note": "EventEditor.js — timely-frontend"
+        },
+        {
+          "id": 23346274,
+          "uid": "ac582720e3d30afa2b0902a7b8e166fb6897f1ca04ebaf3a8ddcfba41434a00e",
+          "entry_id": 57223845,
+          "from": "2017-12-05T17:33:46-08:00",
+          "to": "2017-12-05T17:46:46-08:00",
+          "note": "Popover.js — timely-frontend"
+        },
+        {
+          "id": 23346275,
+          "uid": "cf882fa86f89ea6ee413afd13fe40491820646dd1778f3cfc81e9d9ec96879a8",
+          "entry_id": 57223845,
+          "from": "2017-12-05T17:37:31-08:00",
+          "to": "2017-12-05T17:37:45-08:00",
+          "note": "preview-head.html — timely-frontend"
+        },
+        {
+          "id": 23346720,
+          "uid": "f5e0c129460b60c30f74b1d099e12084db56eeffced11ea9f9a7d3df6e26a5f8",
+          "entry_id": 57223845,
+          "from": "2017-12-05T17:29:02-08:00",
+          "to": "2017-12-05T19:19:56-08:00",
+          "note": "index.scss — timely-frontend"
+        },
+        {
+          "id": 23348223,
+          "uid": "def46ae6c9fa9e101d29fe8ded3671650ccb01950a9444bee81414a5c6813dde",
+          "entry_id": 57223845,
+          "from": "2017-12-05T17:27:01-08:00",
+          "to": "2017-12-05T17:59:14-08:00",
+          "note": "Label.js — timely-frontend"
+        },
+        {
+          "id": 23348224,
+          "uid": "9c31ed80d25ab7dc106f1f1c178fdfd4cb3bc250cbdc2e41df71d5df50d7eef9",
+          "entry_id": 57223845,
+          "from": "2017-12-05T17:59:15-08:00",
+          "to": "2017-12-05T18:02:53-08:00",
+          "note": "Label.scss — timely-frontend"
+        },
+        {
+          "id": 23348225,
+          "uid": "4ff60357d67c2687a23f49121ed03e778daa76ee66d68321aabab5330c7e1646",
+          "entry_id": 57223845,
+          "from": "2017-12-05T17:59:36-08:00",
+          "to": "2017-12-05T18:56:04-08:00",
+          "note": "variables.scss — timely-frontend"
+        },
+        {
+          "id": 23350617,
+          "uid": "2010217a35b7ab04a9eded35bc39db841f1166cb398015692584239fbaddec07",
+          "entry_id": 57223845,
+          "from": "2017-12-05T18:26:41-08:00",
+          "to": "2017-12-05T18:42:17-08:00",
+          "note": "DropdownListItem.js — timely-frontend"
+        },
+        {
+          "id": 23351269,
+          "uid": "b0136fe34b933ac8510987d91500a0b1e0fe36d41b62cc8364c55aeb90fa013e",
+          "entry_id": 57223845,
+          "from": "2017-12-05T18:41:39-08:00",
+          "to": "2017-12-05T18:43:52-08:00",
+          "note": "DropdownList.scss — timely-frontend"
+        }
+      ]
+    },
+    {
+      "id": 57232177,
+      "uid": "d656b9bff87e20a792f87fd35574965ff73adb4c05395506128ac87e4ec6adac",
+      "title": "localhost",
+      "note": "Storybook",
+      "date": "2017-12-05",
+      "from": "2017-12-05T17:49:49-08:00",
+      "to": "2017-12-05T19:01:55-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 1,
+        "minutes": 12,
+        "seconds": 6,
+        "formatted": "01:12",
+        "total_hours": 1.2,
+        "total_seconds": 4326,
+        "total_minutes": 72
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        {
+          "name": "detail",
+          "value":
+            "http://localhost:9001/?selectedKind=UI%20Samples%2FReport\u0026selectedStory=No%20Tabs%20UI\u0026full=0\u0026down=1\u0026left=1\u0026panelRight=0\u0026downPanel=storybook%2Factions%2Factions-panel"
+        }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23347913,
+          "uid": "031bcbdd1ff8b623f34c9a9c64f9ab17340f918fece8ffe51f9a2f26738b8f89",
+          "entry_id": 57232177,
+          "from": "2017-12-05T17:49:49-08:00",
+          "to": "2017-12-05T19:01:55-08:00",
+          "note": "Storybook"
+        }
+      ]
+    },
+    {
+      "id": 57241858,
+      "uid": "e27b9894e3037122b7c3c80911b274d0f59c8edf9ea1413387d65d1086671799",
+      "title": "google.com",
+      "note": "",
+      "date": "2017-12-05",
+      "from": "2017-12-05T18:27:40-08:00",
+      "to": "2017-12-05T18:33:52-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 12,
+        "formatted": "00:06",
+        "total_hours": 0.1,
+        "total_seconds": 372,
+        "total_minutes": 6
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        {
+          "name": "detail",
+          "value":
+            "https://www.google.com/url?sa=i\u0026rct=j\u0026q=\u0026esrc=s\u0026source=images\u0026cd=\u0026ved=0ahUKEwjv0fC_rPTXAhVDppQKHYZRAtYQjBwIBA\u0026url=http%3A%2F%2F2.bp.blogspot.com%2F-kcjoePctLWo%2FTejgkzj0k0I%2FAAAAAAAAAYg%2F1-UvmUEgBlo%2Fs1600%2Fdominos%2Bphilly%2Bcheese%2Bsteak%2Bpizza%2"
+        }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23351095,
+          "uid": "6a585786e77172f47e0229b3ebb8f47bdc07492141977bab6b8c69f0464d1068",
+          "entry_id": 57241858,
+          "from": "2017-12-05T18:27:41-08:00",
+          "to": "2017-12-05T18:27:54-08:00",
+          "note": "every second td color - Google Search"
+        },
+        {
+          "id": 23351096,
+          "uid": "22bd1cd594dad4d972e11661fb593e273cb7a6d8205bba0a9a36273badda3765",
+          "entry_id": 57241858,
+          "from": "2017-12-05T18:33:40-08:00",
+          "to": "2017-12-05T18:33:51-08:00",
+          "note": "philly steak topping pizza dominos - Google Search"
+        }
+      ]
+    },
+    {
+      "id": 57241871,
+      "uid": "f984d019dd9bb7334151421c76cbc5e64b8638861c2cef5e3d24ab4d6acb6a5a",
+      "title": "dominos.ca",
+      "note":
+        "Checkout Confirmation - Domino's Pizza, Order Pizza Online for Delivery - Dominos.com",
+      "date": "2017-12-05",
+      "from": "2017-12-05T18:32:19-08:00",
+      "to": "2017-12-05T18:36:15-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 3,
+        "seconds": 56,
+        "formatted": "00:03",
+        "total_hours": 0.05,
+        "total_seconds": 236,
+        "total_minutes": 3
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        { "name": "detail", "value": "https://www.dominos.ca/pages/order/confirmation.jsp" }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23351111,
+          "uid": "8708397c23752984e4f5f53e327bbc4643d68f0f39683f7b8397696cc68e4141",
+          "entry_id": 57241871,
+          "from": "2017-12-05T18:32:27-08:00",
+          "to": "2017-12-05T18:35:25-08:00",
+          "note": "Find a Nearby Domino's"
+        },
+        {
+          "id": 23351112,
+          "uid": "d4110ca60d989b420c60384cf6feba0833be146f7cb0a67ad5e663b590989469",
+          "entry_id": 57241871,
+          "from": "2017-12-05T18:35:27-08:00",
+          "to": "2017-12-05T18:36:12-08:00",
+          "note": "Domino's Pizza, Order Pizza Online for Delivery - Dominos.com"
+        }
+      ]
+    },
+    {
+      "id": 57242693,
+      "uid": "969781fa413a027ae8545457df20583173baac05ff1e190939005085df2a3085",
+      "title": "Sourcetree",
+      "note": "",
+      "date": "2017-12-05",
+      "from": "2017-12-05T18:48:15-08:00",
+      "to": "2017-12-05T18:53:48-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 5,
+        "seconds": 33,
+        "formatted": "00:05",
+        "total_hours": 0.08333333333333333,
+        "total_seconds": 333,
+        "total_minutes": 5
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Sourcetree" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": null,
+      "color": null,
+      "sub_entries": []
+    },
+    {
+      "id": 57253771,
+      "uid": "32af31ac065d50ef3d6b35e32d6e7485e187a42c33dfa3c0456b41fd02047330",
+      "title": "localhost",
+      "note": "Storybook",
+      "date": "2017-12-05",
+      "from": "2017-12-05T20:14:51-08:00",
+      "to": "2017-12-05T20:30:06-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 15,
+        "seconds": 15,
+        "formatted": "00:15",
+        "total_hours": 0.25,
+        "total_seconds": 915,
+        "total_minutes": 15
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        {
+          "name": "detail",
+          "value":
+            "http://localhost:9001/?selectedKind=UI%20Samples%2FReport\u0026selectedStory=No%20Tabs%20UI\u0026full=0\u0026down=1\u0026left=1\u0026panelRight=0\u0026downPanel=storybook%2Factions%2Factions-panel"
+        }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23357625,
+          "uid": "f73f0edc6fd79eb4b75e902482927d761bf1a95a443302f4cdd62625c641aa8e",
+          "entry_id": 57253771,
+          "from": "2017-12-05T20:14:51-08:00",
+          "to": "2017-12-05T20:30:06-08:00",
+          "note": "Storybook"
+        }
+      ]
+    },
+    {
+      "id": 57296873,
+      "uid": "b91ea43c9075a00b937618152976741d70a858012c8a2cdbb15d69c4c9ad0063",
+      "title": "Visual Studio Code",
+      "note": "reports.simplified.story.js — timely-frontend",
+      "date": "2017-12-05",
+      "from": "2017-12-05T21:40:32-08:00",
+      "to": "2017-12-05T23:56:40-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 2,
+        "minutes": 16,
+        "seconds": 8,
+        "formatted": "02:16",
+        "total_hours": 2.2666666666666666,
+        "total_seconds": 8168,
+        "total_minutes": 136
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Visual Studio Code" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": "visual_studio_code.png",
+      "color": "rgba(86,210,255,0.30)",
+      "sub_entries": [
+        {
+          "id": 23362338,
+          "uid": "79d96414063171a5fe1e6e87c2f22ddfcc8c81d852e38d310790d6155286ed76",
+          "entry_id": 57296873,
+          "from": "2017-12-05T21:40:32-08:00",
+          "to": "2017-12-05T23:49:40-08:00",
+          "note": "index.js — timely-frontend"
+        },
+        {
+          "id": 23362339,
+          "uid": "b5dbba08e54d2356b36b896aa180ba7b8dc3e5ff7a3182f8b0c8c7f43dc8c3fe",
+          "entry_id": 57296873,
+          "from": "2017-12-05T21:40:47-08:00",
+          "to": "2017-12-05T23:09:30-08:00",
+          "note": "PopoverDropdownList.js — timely-frontend"
+        },
+        {
+          "id": 23362341,
+          "uid": "03c533e753dc9cc64c1c5e0140b42c31d3b069acd7e00aa38a16e1732e39ff8c",
+          "entry_id": 57296873,
+          "from": "2017-12-05T21:41:23-08:00",
+          "to": "2017-12-05T21:48:29-08:00",
+          "note": "Popover.js — timely-frontend"
+        },
+        {
+          "id": 23362342,
+          "uid": "083166084e5a909e126768a229bb94a6e07b9fa787b62c41523075cdd9f0df67",
+          "entry_id": 57296873,
+          "from": "2017-12-05T21:42:12-08:00",
+          "to": "2017-12-05T23:56:40-08:00",
+          "note": "reports.simplified.story.js — timely-frontend"
+        },
+        {
+          "id": 23362343,
+          "uid": "6f134a7b564c66da60bc956eb7c16da6ae211cd782bf6f680a0f8a506abdf0e3",
+          "entry_id": 57296873,
+          "from": "2017-12-05T21:42:31-08:00",
+          "to": "2017-12-05T23:54:35-08:00",
+          "note": "card.story.js — timely-frontend"
+        },
+        {
+          "id": 23363337,
+          "uid": "a37b9048e174bdd82b53fc970522174c7bcfbc38ae0d64595035e18b649fc1e5",
+          "entry_id": 57296873,
+          "from": "2017-12-05T21:40:44-08:00",
+          "to": "2017-12-05T23:49:34-08:00",
+          "note": "index.scss — timely-frontend"
+        },
+        {
+          "id": 23363339,
+          "uid": "36676c4be281a3ad02c01806b129e983d13b3e39a76affdac8016cdb18d2ed72",
+          "entry_id": 57296873,
+          "from": "2017-12-05T21:58:20-08:00",
+          "to": "2017-12-05T22:39:07-08:00",
+          "note": "Icons.js — timely-frontend"
+        },
+        {
+          "id": 23364865,
+          "uid": "98b63df99b10d66f72d847c52c351946f1e129f0e0dd7f071e9af3ff4e74e4f2",
+          "entry_id": 57296873,
+          "from": "2017-12-05T22:22:27-08:00",
+          "to": "2017-12-05T23:50:08-08:00",
+          "note": "widget.story.js — timely-frontend"
+        },
+        {
+          "id": 23367256,
+          "uid": "2766f9ac6b271b64aebf7d9a9fac1ecde9a155df8692bd0ac10005786c9355c2",
+          "entry_id": 57296873,
+          "from": "2017-12-05T21:57:45-08:00",
+          "to": "2017-12-05T23:49:57-08:00",
+          "note": "variables.scss — timely-frontend"
+        },
+        {
+          "id": 23368173,
+          "uid": "714a1355e9ec20391d83e20e36e09c980ca912cd644308fa03ab65d290bf989c",
+          "entry_id": 57296873,
+          "from": "2017-12-05T23:08:26-08:00",
+          "to": "2017-12-05T23:09:10-08:00",
+          "note": "DropdownListItem.js — timely-frontend"
+        },
+        {
+          "id": 23368738,
+          "uid": "9880bab79e2f7f6861c09b0d40788090360a2f362d01d24600d71ad936c9a6e8",
+          "entry_id": 57296873,
+          "from": "2017-12-05T23:14:56-08:00",
+          "to": "2017-12-05T23:17:09-08:00",
+          "note": "ReportDashboardRoute.js — timely-frontend"
+        },
+        {
+          "id": 23369408,
+          "uid": "59a79314fb4a937311242dccb846ff11f7cee0168d5a0d3c3cb4c0f738145f91",
+          "entry_id": 57296873,
+          "from": "2017-12-05T23:14:46-08:00",
+          "to": "2017-12-05T23:35:49-08:00",
+          "note": "DashboardHoursGraph.js — timely-frontend"
+        },
+        {
+          "id": 23369411,
+          "uid": "204fcdd7083b1a2d113d74a872d583ba0bf4cdc66cb2369a02f8c4edca58c45c",
+          "entry_id": 57296873,
+          "from": "2017-12-05T23:17:10-08:00",
+          "to": "2017-12-05T23:50:05-08:00",
+          "note": "reports.js — timely-frontend"
+        }
+      ]
+    },
+    {
+      "id": 57297268,
+      "uid": "0c18d14e2a8ad706a241facb7726bc8365b2f368535084d062ad830488adf764",
+      "title": "localhost",
+      "note": "Storybook",
+      "date": "2017-12-05",
+      "from": "2017-12-05T21:40:14-08:00",
+      "to": "2017-12-05T22:22:17-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 42,
+        "seconds": 3,
+        "formatted": "00:42",
+        "total_hours": 0.7,
+        "total_seconds": 2523,
+        "total_minutes": 42
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        {
+          "name": "detail",
+          "value":
+            "http://localhost:9001/?selectedKind=Components%2FUI%20Blocks%2FCard\u0026selectedStory=Variants\u0026full=0\u0026down=1\u0026left=1\u0026panelRight=0\u0026downPanel=storybook%2Factions%2Factions-panel"
+        }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23362586,
+          "uid": "5784cb895e6abbdc178650a2db69a4cc66c5b373fcd5f0b9fad366255e59c486",
+          "entry_id": 57297268,
+          "from": "2017-12-05T21:40:14-08:00",
+          "to": "2017-12-05T22:22:17-08:00",
+          "note": "Storybook"
+        }
+      ]
+    },
+    {
+      "id": 57310108,
+      "uid": "81fbcb7f80b331692bf2b76291a7b6eeb46dda50a8213cf8e0dc6d19edf04787",
+      "title": "jsfiddle.net",
+      "note": "React Base Fiddle (JSX) - JSFiddle",
+      "date": "2017-12-05",
+      "from": "2017-12-05T23:26:50-08:00",
+      "to": "2017-12-05T23:33:24-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 6,
+        "seconds": 34,
+        "formatted": "00:06",
+        "total_hours": 0.1,
+        "total_seconds": 394,
+        "total_minutes": 6
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        { "name": "detail", "value": "http://jsfiddle.net/d7dch92m/" }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23370462,
+          "uid": "8425b3e2b131ea4c2671d21c6ecc7f13f064206511001b11a164f59fffc1c94c",
+          "entry_id": 57310108,
+          "from": "2017-12-05T23:26:51-08:00",
+          "to": "2017-12-05T23:33:24-08:00",
+          "note": "React Base Fiddle (JSX) - JSFiddle"
+        }
+      ]
+    },
+    {
+      "id": 57316559,
+      "uid": "c39b45167ca3e603624d35e6e97972fa5500ded827ef77dce04643cce7014fd1",
+      "title": "localhost",
+      "note": "Storybook",
+      "date": "2017-12-05",
+      "from": "2017-12-05T23:31:06-08:00",
+      "to": "2017-12-05T23:55:07-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 24,
+        "seconds": 1,
+        "formatted": "00:24",
+        "total_hours": 0.4,
+        "total_seconds": 1441,
+        "total_minutes": 24
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        {
+          "name": "detail",
+          "value":
+            "http://localhost:9001/?selectedKind=UI%20Samples%2FReport\u0026selectedStory=No%20Tabs%20UI\u0026full=0\u0026down=1\u0026left=1\u0026panelRight=0\u0026downPanel=storybook%2Factions%2Factions-panel"
+        }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23370985,
+          "uid": "b3f96183e4319079d80dd9fcbcbf7ea6af8622f555174bcaf1d536fce1b1399e",
+          "entry_id": 57316559,
+          "from": "2017-12-05T23:31:06-08:00",
+          "to": "2017-12-05T23:55:07-08:00",
+          "note": "Storybook"
+        }
+      ]
+    },
+    {
+      "id": 57316635,
+      "uid": "991a9158220ac47ad1998876f72dbe079f50da4e45b58de720dcca88b291a706",
+      "title": "recharts.org",
+      "note": "CustomContentOfTooltip | Recharts",
+      "date": "2017-12-05",
+      "from": "2017-12-05T23:25:42-08:00",
+      "to": "2017-12-05T23:33:10-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 7,
+        "seconds": 28,
+        "formatted": "00:07",
+        "total_hours": 0.11666666666666667,
+        "total_seconds": 448,
+        "total_minutes": 7
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Google Chrome" },
+        { "name": "detail", "value": "http://recharts.org/#/en-US/examples/CustomContentOfTooltip" }
+      ],
+      "icon": "google_chrome.png",
+      "color": "rgba(248,81,110,0.30)",
+      "sub_entries": [
+        {
+          "id": 23371060,
+          "uid": "4fa0cd7e18eb2f46400f0ae6f3de4cd21df0c14cc3904bf02d7b1ea4ea1f226d",
+          "entry_id": 57316635,
+          "from": "2017-12-05T23:26:02-08:00",
+          "to": "2017-12-05T23:33:06-08:00",
+          "note": "BiaxialBarChart | Recharts"
+        }
+      ]
+    },
+    {
+      "id": 57320951,
+      "uid": "e3e9c71fe156b25270e2b5cd994014789ddd47048f0ade00c75d5711a3b9ece5",
+      "title": "Sourcetree",
+      "note": "",
+      "date": "2017-12-05",
+      "from": "2017-12-05T23:34:20-08:00",
+      "to": "2017-12-05T23:43:58-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 9,
+        "seconds": 38,
+        "formatted": "00:09",
+        "total_hours": 0.15,
+        "total_seconds": 578,
+        "total_minutes": 9
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Sourcetree" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": null,
+      "color": null,
+      "sub_entries": []
+    },
+    {
+      "id": 57321039,
+      "uid": "bb4508f4638e7a87fc1e3bff6b3cddec4c3425e999cc61f7425308e74a3010f6",
+      "title": "Zeplin",
+      "note": "",
+      "date": "2017-12-05",
+      "from": "2017-12-05T23:43:06-08:00",
+      "to": "2017-12-05T23:45:11-08:00",
+      "entry_type": null,
+      "duration": {
+        "hours": 0,
+        "minutes": 2,
+        "seconds": 5,
+        "formatted": "00:02",
+        "total_hours": 0.03333333333333333,
+        "total_seconds": 125,
+        "total_minutes": 2
+      },
+      "at": null,
+      "extra_attributes": [
+        { "name": "application", "value": "Zeplin" },
+        { "name": "detail", "value": "" }
+      ],
+      "icon": null,
+      "color": null,
+      "sub_entries": []
+    }
+  ]
+}

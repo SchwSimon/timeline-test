@@ -1,0 +1,8 @@
+.TodoDisplayItem {
+  cursor: pointer;
+} .TodoDisplayItem:hover {
+  background-color: whitesmoke;
+}
+  .TodoDisplayItem-done {
+    width: 30px;
+  }

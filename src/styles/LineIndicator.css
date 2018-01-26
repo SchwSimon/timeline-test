@@ -1,0 +1,26 @@
+.LineIndicator {
+  height: 1px;
+  background: #ced8db;
+  position: absolute;
+  top: 0;
+  left: 80px;
+  right: 0;
+  z-index: 5;
+  transform: translateZ(0);
+  pointer-events: none;
+}
+  .LineIndicator-content {
+    position: absolute;
+    color: #6e848b;
+    background: #ced8db;
+    border-radius: 4px;
+    padding: 8px 5px 6px;
+    text-align: right;
+    font-weight: 700;
+    display: flex;
+    align-content: center;
+    font-size: 12px;
+    transform: translateY(-50%);
+    left: -36px;
+    user-select: none;
+  }

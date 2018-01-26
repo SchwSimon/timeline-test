@@ -1,0 +1,14 @@
+.TimelineEntries {
+  z-index: 5;
+  flex: 1 0 auto;
+  margin-left: 20px;
+  display: flex;
+  user-select: none;
+}
+  .TimelineEntries-lane {
+    max-width: 200px;
+    width: 140px;
+    height: 100%;
+    flex: 1 1 140px;
+    position: relative;
+  }

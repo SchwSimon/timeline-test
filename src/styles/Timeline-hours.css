@@ -1,0 +1,22 @@
+.TimelineHours-hours {
+  border-right: 3px solid #ced8db;
+  min-width: 100px;
+  max-width: 100px;
+  z-index: auto;
+  display: flex;
+  flex-direction: column;
+  flex: 1 0 auto;
+  background: #fbfbfa;
+  pointer-events: none;
+  user-select: none;
+}
+  .TimelineHours-hour {
+    min-height: 150px;
+    z-index: 3;
+    color: #a9a9a9;
+    font-weight: 700;
+    position: relative;
+    font-size: 12px;
+    text-align: right;
+    padding: 30px 15px 30px 30px;
+  }

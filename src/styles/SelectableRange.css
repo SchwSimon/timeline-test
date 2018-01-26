@@ -1,0 +1,199 @@
+.SelectableRange {
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 1100;
+}
+  .SelectableRange-content {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: 1;
+    width: 70px;
+  } .SelectableRange-content::after {
+    content: '';
+    display: block;
+    background: #53bdff;
+    width: 4px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: calc(50% - 4px);
+    z-index: 0;
+  }
+    .SelectableRange-content-upper,
+    .SelectableRange-content-lower,
+    .SelectableRange-content-middle {
+      position: relative;
+      background: #53bdff;
+      color: #fff;
+      font-weight: 700;
+      font-size: 14px;
+      text-align: center;
+      z-index: 2;
+      width: 64px;
+      padding: 2px;
+      user-select: none;
+    } .SelectableRange-content-upper {
+      margin-top: -30px;
+      border-radius: 3px 3px 0 0;
+    } .SelectableRange-content-lower {
+      margin-bottom: -30px;
+      border-radius: 0 0 3px 3px;
+    }
+    .SelectableRange-content-middle {
+      border-radius: 20px;
+      transition: opacity .25s ease-out,height .25s ease-out,padding .25s ease-out;
+      opacity: 1;
+      height: auto;
+    } .SelectableRange-short .SelectableRange-content-middle {
+      opacity: 0;
+    }
+
+    .SelectableRange-resizeableBox {
+      background: rgba(159,198,231,0.5);
+      border: 1px solid rgba(21,135,189,0.3);
+      margin: 0 5px;
+      border-radius: 4px;
+      user-select: none;
+    }
+      .SelectableRange-resizeableBox-upperHandle,
+      .SelectableRange-resizeableBox-lowerHandle {
+        font-size: 20px;
+        right: calc(50% - 25px);
+        z-index: 3;
+        pointer-events: auto;
+        padding-top: 3px;
+        position: absolute;
+        width: 100%;
+        height: 10px;
+        top: -5px;
+        left: 0px;
+        cursor: row-resize;
+        user-select: none;
+      } .SelectableRange-resizeableBox-upperHandle::before,
+      .SelectableRange-resizeableBox-lowerHandle::before {
+        content: '=';
+        color: rgba(0,0,0,0.54);
+        font-weight: 700;
+        margin: 0 auto;
+        display: block;
+        text-align: center;
+        user-select: none;
+      } .SelectableRange-short .SelectableRange-resizeableBox-upperHandle::before {
+        content: '';
+      } .SelectableRange-short .SelectableRange-resizeableBox-lowerHandle::before {
+        background: rgba(21,135,189,0.3);
+        color: #fff;
+        margin-top: 11px;
+        left: calc(50% - 25px);
+        width: 50px;
+        border-radius: 0 0 4px 4px;
+        -webkit-transform: translateY(16px);
+        transform: translateY(16px);
+      } .SelectableRange-resizeableBox-lowerHandle {
+        top: auto;
+        bottom: 20px;
+      }
+
+      .SelectableRange-modalAnchor {
+        width: 0;
+        height: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+        .SelectableRange-modalFixed {
+          position: fixed;
+          z-index: 999;
+        }
+          .SelectableRange-modalContainer {
+            display: block;
+            position: absolute;
+            min-width: 110px;
+            min-height: 10px;
+            z-index: 20;
+            background: #fff;
+            background-clip: border-box;
+            border: 1px solid rgba(0,0,0,0.12);
+            box-shadow: 0 2px 40px 0 rgba(0,0,0,0.09),0 2px 4px 0 rgba(0,0,0,0.06);
+            border-radius: 4px;
+            background-clip: padding-box;
+            will-change: transform,opacity;
+            right: 100%;
+            top: 0;
+            transform: 'translateX(-10px) translateY(0px)'
+          } .SelectableRange-modalContainer::after {
+            content: "";
+            position: absolute;
+            width: 0;
+            height: 0;
+            box-sizing: border-box;
+            border: 8px solid #000;
+            border-color: transparent transparent #fff #fff;
+            transform-origin: 0 0;
+            transform: rotate(45deg);
+            box-shadow: -2px 3px 3px 0 rgba(0,0,0,0.03),-1px 1px 0 0.5px rgba(0,0,0,0.06);
+            background-clip: padding-box;
+            top: 38px;
+            right: -15px;
+            transform: rotate(225deg);
+          }
+            .SelectableRange-modal {
+              padding: 0;
+              border-radius: 4px;
+              position: relative;
+              min-width: 440px;
+              max-width: 440px;
+              flex: 1 0 auto;
+              background: #fff;
+              color: #644949;
+              border-radius: 4px;
+            }
+              .SelectableRange-modal-title {
+                display: block;
+                box-sizing: border-box;
+                background-color: transparent;
+                width: 100%;
+                height: 42px;
+                color: rgba(0,0,0,0.64);
+                outline: 0;
+                border: 0;
+                padding-top: 0;
+                font-size: 14px;
+                font-weight: 700;
+                padding: 0 4%;
+              }
+              .SelectableRange-modal-footer {
+                background-color: #fafafa;
+                padding: 15px 20px;
+                font-size: 12px;
+                border-radius: 0 0 4px 4px;
+                display: flex;
+                justify-content: space-between;
+              }
+                .SelectableRange-modal-footer-btnSave,
+                .SelectableRange-modal-footer-btnCancel {
+                  position: relative;
+                  display: inline-block;
+                  padding: 8px 14px;
+                  border: 2px solid transparent;
+                  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+                  border-radius: 4px;
+                  font-size: 13px;
+                  box-shadow: none;
+                  cursor: pointer;
+                  font-weight: 700;
+                  text-decoration: none;
+                } .SelectableRange-modal-footer-btnSave {
+                  background: #49cf8b;
+                  color: #fff;
+                } .SelectableRange-modal-footer-btnCancel {
+                  margin-left: 3px;
+                  background: none;
+                  color: rgba(0,0,0,0.54);
+                }
