@@ -76,7 +76,7 @@ export class TimelineEntry extends Component {
   }
 
   componentWillUpdate(nextProps, nextState) {
-    activityIcon = '/images/' + nextProps.icon;
+    activityIcon = './images/' + nextProps.icon;
     modalInfoTime = nextProps.time.from.formatted + ' to ' + nextProps.time.to.formatted;
     if (nextState.modalVisible) {
       modalDisplayStyle = 'block';
